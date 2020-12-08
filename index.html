@@ -160,17 +160,31 @@
         top: 628px;
         background-repeat: no-repeat;
       }
+      .glavn {
+        position: fixed;
+        z-index: 2;
+        bottom: 0px;
+        left: calc(50% - 268.5px);
+        width: 537px;
+        height: 568px;
+
+      }
       .chel {
         background: url('images/chel.png');
-        position: fixed;
         width: 537px;
         height: 568px;
         bottom: 0px;
-        align-content: center;
         background-repeat: no-repeat;
-        z-index: 1;
         left: calc(50% - 268.5px);
-        z-index: 2;
+      }
+      .ochki {
+        position: absolute;
+        background: url('images/ochki.png');
+        top: 25%;
+        left: 20px;
+        z-index: 1;
+        width: 477px;
+        height: 213px;
       }
       .f2 {
         position: absolute;
@@ -325,12 +339,16 @@
     <div class="kvadrat1"></div>
     <div class="krug2"></div>
     <div class="kot"></div>
-    /* <div class="star3"></div> */
+    <div class="star3"></div>
     <div class="krug3"></div>
     <div class="treug1"></div>
     <div class="krug4"></div>
     <div class="treug2"></div>
-    <div class="chel"></div>
+    <!-- <div class="chel"></div> -->
+    <div class="glavn">
+      <div class="chel"></div>
+      <div class="ochki"></div>
+    </div>
 
     <div class="f2">
       <p class="t1">квартира №4</p>
