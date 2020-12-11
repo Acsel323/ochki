@@ -1,31 +1,140 @@
-@media all and (max-width: 1340px) {
-  .sidebar {
-    display: none;
-  }
-}
-@media all and (max-width: 1020px) {
-	article img { width: 100%; }
-}
-@media all and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
-article > * { width: calc(100% - 40px); }
-}
-@media all and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
-body { min-width: 320px; }
-article > * { width: calc(100% - 40px); }
-}
-@media all and (max-width: 780px) {
-  article > * { width: calc(100% - 80px); }
-}
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 1224px) {
   /* Desktop */
 }
-@media only screen and (min-device-width: 1024px) and (max-device-width: 1279px) {
+
+@media only screen and (min-device-width: 1680px) {
+  /* MacBook Pro */
+  body::before {
+    background: url('images/m21.png');
+  }
+  .krug1 {
+    left: -69px;
+    width: 540px;
+    height: 540px;
+  }
+  .star1 {
+    /* width: 505px; */
+    width: 115%;
+    /* height: 525px; */
+    height: 118%;
+  }
+  .palka1 {
+    left: calc(50% - 369px);
+    top: -71px;
+    width: 120px;
+    height: 761px;
+  }
+  .star2 {
+
+  }
+  .kvadrat1 {
+
+  }
+  .krug2 {
+
+  }
+  .kot {
+
+  }
+  .star3 {
+
+  }
+  .krug3 {
+
+  }
+  .treug1 {
+
+  }
+  .krug4 {
+
+  }
+  .treug2 {
+
+  }
+  .glavn {
+
+  }
+  .chel {
+
+  }
+  .ochki {
+
+  }
+  .f2 {
+
+  }
+  .t1 {
+
+  }
+  .div1 {
+
+  }
+  .krug21 {
+
+  }
+  .kvadtat21 {
+
+  }
+  .treug21 {
+
+  }
+  .star21 {
+
+  }
+  .div2 {
+
+  }
+  .kot2 {
+
+  }
+  .kvadrat22 {
+
+  }
+  .treug22 {
+
+  }
+  .div3 {
+
+  }
+  .treug23 {
+
+  }
+  .krug22 {
+
+  }
+  .krug23 {
+
+  }
+  .krug24 {
+
+  }
+}
+
+@media only screen and (min-device-width: 1440px) and (max-device-width: 1680px) {
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
   /* iPad */
 }
-@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
-  article > * { width: calc(100% - 80px); }
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  /* iPad Portrait */
 
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 767px) {
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* iPad Landscape */
 
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* iPhone */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
+  /* iPhone Portrait */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
+  /* iPhone Landscape */
+	}
