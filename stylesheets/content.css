@@ -362,6 +362,10 @@ body {
   top: 0%;
   right: 0%;
   background-repeat: no-repeat;
+  animation-name: povorotik;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
 .krug22 {
   border-radius: 50%;
@@ -552,4 +556,8 @@ left: 50%;}
 }
 @keyframes vpravo {
   50% {left: 60%;}
+}
+@keyframes povorotik {
+  0% {transform: rotate(-15deg);}
+  50% {transform: rotate(15deg);}
 }
