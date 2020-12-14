@@ -1,24 +1,10 @@
 <svg width="461" height="217" viewBox="0 0 461 217" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M109.812 211.793C167.698 211.793 214.625 165.501 214.625 108.397C214.625 51.2923 167.698 5 109.812 5C51.9261 5 5 51.2923 5 108.397C5 165.501 51.9261 211.793 109.812 211.793Z" fill="url(#paint0_radial)" stroke="black" stroke-width="8.65278" stroke-miterlimit="10"/>
+<path d="M109.812 211.793C167.698 211.793 214.625 165.501 214.625 108.397C214.625 51.2923 167.698 5 109.812 5C51.9261 5 5 51.2923 5 108.397C5 165.501 51.9261 211.793 109.812 211.793Z" fill="black" fill-opacity="0.3" stroke="black" stroke-width="8.65278" stroke-miterlimit="10"/>
 <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="209" y="80" width="41" height="36">
 <path d="M245.382 98.0701C245.382 104.958 238.812 111.464 229.492 111.464C220.172 111.464 213.602 104.958 213.602 98.0701C213.602 91.1824 220.172 84.6764 229.492 84.6764C238.812 84.6764 245.382 91.1824 245.382 98.0701Z" stroke="black" stroke-width="8.47004"/>
 </mask>
 <g mask="url(#mask0)">
 <rect x="201.062" y="79.834" width="60.694" height="18.2366" fill="black"/>
 </g>
-<path d="M350.883 211.793C408.769 211.793 455.695 165.501 455.695 108.397C455.695 51.2923 408.769 5 350.883 5C292.996 5 246.07 51.2923 246.07 108.397C246.07 165.501 292.996 211.793 350.883 211.793Z" fill="url(#paint1_radial)" stroke="black" stroke-width="8.65278" stroke-miterlimit="10"/>
-<defs>
-<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(109.812 108.397) rotate(90) scale(103.397 104.812)">
-<stop stop-color="#FF0000"/>
-<stop offset="0.4375" stop-color="#FF70F1"/>
-<stop offset="0.739583" stop-color="#FFF500" stop-opacity="0.57"/>
-<stop offset="0.96875" stop-color="#1400FF"/>
-</radialGradient>
-<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(350.883 108.397) rotate(90) scale(103.397 104.812)">
-<stop stop-color="#FF0000"/>
-<stop offset="0.4375" stop-color="#FF70F1"/>
-<stop offset="0.739583" stop-color="#FFF500" stop-opacity="0.57"/>
-<stop offset="0.96875" stop-color="#1400FF"/>
-</radialGradient>
-</defs>
+<path d="M350.883 211.793C408.769 211.793 455.695 165.501 455.695 108.397C455.695 51.2923 408.769 5 350.883 5C292.996 5 246.07 51.2923 246.07 108.397C246.07 165.501 292.996 211.793 350.883 211.793Z" fill="black" fill-opacity="0.3" stroke="black" stroke-width="8.65278" stroke-miterlimit="10"/>
 </svg>
