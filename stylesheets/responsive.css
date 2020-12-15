@@ -1,54 +1,171 @@
+@media all and (min-device-width: 1024px) {
 
-/* @media only screen and (min-device-width: 1024px) {
-  .krug1{
-    width: 500px;
-    height: 500px;
+  .krug1 {
+    left: -138px;
+    top: -38px;
+    width: 439px;
+    height: 439px;
   }
-    .star1{}
-    .palka1{
+  .star1 {
+    left: 0%;
+  }
+  .palka1 {
+    left: calc(50% - 499px);
+    top: -71px;
+    width: 120px;
+    height: 761px;
+  }
+  .star2 {
+    top: -380px;
+    transform: scale(0.8);
+    right: -18%;
+  }
+  .kvadrat1 {
+    top: 200px;
+    width: 535px;
+    height: 507px;
+    left: -2%;
+  }
+  .krug2 {
+    width: 900px;
+    height: 800px;
+    top: 300px;
+    background-size: 700px
+  }
+  @keyframes pryg {
+    50% {top: 100px;}
+  }
+  .kot {
+    top: 500px;
+  }
+  .star3 {
+    top: 550px;
+    left: 5%;
+    transform: scale(0.8);
+  }
+  .krug3 {
+    right: 50px;
+    top: 450px;
+  }
+  .treug1 {
+    top: 330px;
+    left: 50%
+  }
+  .krug4 {
+    width: 340px;
+    height: 340px;
+    top: 600px;
+    right: 200px;
+  }
+  .treug2 {
+    /* background: url('../images/adapt/treug2u2.svg'); */
+    top: 420px;
+    height: 100%;
+    right: -3%;
+    background-repeat: no-repeat;
+  }
+  .chel {
 
-    }
-    .star2{
-    }
-    .kvadrat1{
-      width: 421px;
-      height: 399px;
-    }
-    .krug2{}
-    .krug0{
-    }
-    .kot{}
-    .star3{}
-    .krug3{
-      top: 332px;/
-      right: 4%;
-    }
-    .treug1{}
-    .krug4{
-      width: 500px;
-      height: 500px;
-      top: 835px;
-      right: 115px;
-    }
-    .treug2{}
-    .chel{}
-    .ochki{
-      bottom: 19%
-    }
-    .krug21{}
-    .kvadrat21{}
-    .k1{}
-    .k2{}
-    .kvadrat22{}
-    .treug22{}
-    .kot2{}
-    .treug23{}
-    .krug22{}
-    .krug23{}
-    .krug24{} */
+  }
+  .ochki {
+    left: 30%;
 
+  }
+  .f2 {
+    top: 1152px;
+
+  }
+  .t1 {
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+    left: -10%
+  }
+  .div1 {
+    top: 257px;
+    width: 372px;
+    height: 350px;
+    left: 4%;
+  }
+  .krug21 {
+    width: 340px;
+    height: 340px;
+  }
+  .kvadrat21 {
+    width: 120px;
+    height: 120px;
+    bottom: 0px;
+    left: 10px;
+  }
+  .k1 {
+    /* background: url('../images/adapt/k1u2.svg'); */
+    width: 512px;
+    height: 744px;
+    background-repeat: no-repeat;
+    right: 20%;
+    top: 490px
+  }
+  .treug21 {
+    background-size: 250px;
+    background-repeat: no-repeat;
+  }
+  .k2 {
+    top: 700px;
+    left: 0%;
+  }
+  .star21 {
+    background-size: 400px;
+    background-repeat: no-repeat;
+  }
+  .div2 {
+    width: 420px;
+    height: 348px;
+    top: 1060px;
+    left: 42%;
+  }
+  .kot2 {
+
+  }
+  .kvadrat22 {
+    height: 490px;
+    width: 400px;
+  }
+  .treug22 {
+
+  }
+  .div3 {
+    top: 1550px;
+    width: 771px;
+    height: 386px;
+    left: 0%
+  }
+  .treug23 {
+    background-size: 400px
+  }
+  .krug22 {
+    height: 200px;
+    width: 200px;
+  }
+  .div4 {
+    width: 330px;
+    top: 1870px;
+    left: 50%;
+    height: 190px
+  }
+  .krug23 {
+    left: 0px;
+    height: 190px;
+    width: 190px;
+  }
+  .krug24 {
+    right: 0px;
+    height: 100px;
+    width: 100px;
+  }
 }
-@media only screen and (min-device-width: 1366px) {
+
+
+@media all and (min-device-width: 1366px) {
  .krug1{
    width: 500px;
    height: 500px;
@@ -99,7 +216,7 @@
  .krug24{}
 
  }
-@media only screen and (min-device-width: 1680px) {
+@media all and (min-device-width: 1680px) {
   .krug1 {
     left: -9px;
     width: 540px;
@@ -161,8 +278,6 @@
     height: 100%;
     right: 0px;
     background-repeat: no-repeat;
-  }
-
   }
   .chel {
 
@@ -244,7 +359,7 @@
 
   }
 }
-@media only screen and (min-device-width: 1440px) {
+@media all and (min-device-width: 1440px) {
   .krug1 {
     left: -39px;
     width: 520px;
@@ -388,7 +503,7 @@
 }
 
 
-@media only screen and (min-device-width: 1366px) {
+@media all and (min-device-width: 1366px) {
   .krug1 {
     left: -39px;
     width: 520px;
@@ -629,20 +744,18 @@
     bottom: 10px;
     left: 10px;
   }
-  .k1 {
-    /* background: url('../images/adapt/k1u2.svg'); */
+  .treug21 {
+    /* background: url('../images/adapt/treug21u2.svg'); */
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    right: -50%;
+    right: -20%;
     top: 490px;
   }
-  .k2 {
+  .star21 {
     top: 1120px;
     left: 100px;
-    .star21 {
     transform: scale(1.3);
-    }
   }
   .div2 {
     width: 720px;
@@ -682,168 +795,3 @@
   }
 
 }
-
-
-
-@media only screen and (min-device-width: 1024px) and {
-  .krug1 {
-    left: -138px;
-    top: -38px;
-    width: 239px;
-    height: 239px;
-  }
-  .star1 {
-    /* width: 505px; */
-    /* height: 525px; */
-  }
-  .palka1 {
-    left: calc(50% - 469px);
-    top: -71px;
-    width: 120px;
-    height: 761px;
-  }
-  .star2 {
-    /* right: 30px; */
-    left: 230px;
-    top: -200px;
-    /* width: 110%; */
-  }
-  .kvadrat1 {
-    top: 430px;
-    width: 535px;
-    height: 507px;
-  }
-  .krug2 {
-    /* background: url('../images/adapt/krug2u2.svg'); */
-    width: 734px;
-    height: 703px;
-    top: 900px;
-  }
-  .kot {
-
-  }
-  .star3 {
-    top: 750px;
-    left: 180px;
-  }
-  .krug3 {
-    right: 50px;
-    top: 450px;
-  }
-  .treug1 {
-    right: 420px;
-    top: 330px;
-  }
-  .krug4 {
-    width: 540px;
-    height: 540px;
-    top: 1040px;
-    right: 300px;
-  }
-  .treug2 {
-    /* background: url('../images/adapt/treug2u2.svg'); */
-    top: 820px;
-    height: 100%;
-    right: 0px;
-    background-repeat: no-repeat;
-  }
-
-  }
-  .chel {
-
-  }
-  .ochki {
-
-  }
-  .f2 {
-    top: 1575px;
-
-  }
-  .t1 {
-    position: relative;
-    font-size: 110px;
-    text-align: center;
-    top: 0px;
-  }
-  .div1 {
-    top: 287px;
-    width: 622px;
-    height: 591px;
-  }
-  .krug21 {
-    width: 537px;
-    height: 537px;
-  }
-  .kvadrat21 {
-    width: 190px;
-    height: 190px;
-    bottom: 10px;
-    left: 10px;
-  }
-  .k1 {
-    /* background: url('../images/adapt/k1u2.svg'); */
-    width: 512px;
-    height: 744px;
-    background-repeat: no-repeat;
-    right: -250px;
-    top: 490px
-  }
-  .k2 {
-    top: 1120px;
-    left: 100px;
-  }
-  .div2 {
-    width: 720px;
-    height: 748px;
-    right: -220px;
-    top: 1410px;
-  }
-  .kot2 {
-
-  }
-  .kvadrat22 {
-
-  }
-  .treug22 {
-
-  }
-  .div3 {
-    top: 87%;
-    width: 771px;
-    height: 486px;
-  }
-  .treug23 {
-
-  }
-  .krug22 {
-
-  }
-  .div4 {
-    top: 2777px;
-    right: -100px
-  }
-  .krug23 {
-
-  }
-  .krug24 {
-
-  }
-  }
-}
-
-/* @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
-
-}
-
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
-
-}
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-}
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
-}
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
-} */
