@@ -309,11 +309,12 @@ body {
   background: url('../images/treug21.svg');
   position: absolute;
   top: 0px;
-  right: 0px;
+  right: 10%;
   /* right: -20px; */
   /* left: 1000px; */
-  width: 417px;
+  width: 500px;
   height: 615px;
+  background-repeat: no-repeat;
   transform: rotate(-22°);
   animation-name: skew;
   animation-duration: 1s;
@@ -354,7 +355,7 @@ body {
   /* right: 99px; */
   /* left: 900px; */
   /* left: 75%; */
-  left: 80%;
+  left: 50%;
   width: 575px;
   height: 694;
 }
