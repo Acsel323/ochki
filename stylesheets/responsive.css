@@ -1,5 +1,5 @@
 
-@media only screen and (min-device-width: 1024px) {
+/* @media only screen and (min-device-width: 1024px) {
   .krug1{
     width: 500px;
     height: 500px;
@@ -9,7 +9,6 @@
 
     }
     .star2{
-      /* left: 100px; */
     }
     .kvadrat1{
       width: 421px;
@@ -21,8 +20,7 @@
     .kot{}
     .star3{}
     .krug3{
-      top: 332px;
-      /* left: 846px; */
+      top: 332px;/
       right: 4%;
     }
     .treug1{}
@@ -47,7 +45,7 @@
     .treug23{}
     .krug22{}
     .krug23{}
-    .krug24{}
+    .krug24{} */
 
 }
 @media only screen and (min-device-width: 1366px) {
@@ -390,7 +388,7 @@
 }
 
 
-@media only screen and (min-device-width: 1366px) and (max-device-width: 1440px) {
+@media only screen and (min-device-width: 1366px) {
   .krug1 {
     left: -39px;
     width: 520px;
@@ -685,12 +683,12 @@
 
 
 
-@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) {
+@media only screen and (min-device-width: 1024px) and {
   .krug1 {
     left: -138px;
     top: -38px;
-    width: 439px;
-    height: 439px;
+    width: 239px;
+    height: 239px;
   }
   .star1 {
     /* width: 505px; */
@@ -703,7 +701,8 @@
     height: 761px;
   }
   .star2 {
-    right: 30px;
+    /* right: 30px; */
+    left: 230px;
     top: -200px;
     /* width: 110%; */
   }
