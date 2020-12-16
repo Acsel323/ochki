@@ -112,13 +112,14 @@
     left: 0%;
   }
   .star21 {
+    top: 500px;
     background-size: 400px;
     background-repeat: no-repeat;
   }
   .div2 {
     width: 420px;
     height: 348px;
-    top: 1060px;
+    top: 1160px;
     left: 42%;
   }
   .kot2 {
@@ -127,12 +128,13 @@
   .kvadrat22 {
     height: 490px;
     width: 400px;
+    left: 50%;
   }
   .treug22 {
-
+    left: 40%;
   }
   .div3 {
-    top: 1550px;
+    top: 1650px;
     width: 771px;
     height: 386px;
     left: 0%
@@ -146,7 +148,7 @@
   }
   .div4 {
     width: 330px;
-    top: 1870px;
+    top: 2070px;
     left: 50%;
     height: 190px
   }
@@ -555,6 +557,9 @@
     top: 988px;
     left: 50px;
   }
+  .t5 {
+    left: 30%;
+  }
   .div2 {
     width: 643px;
     height: 721px;
@@ -596,7 +601,7 @@
 
   }
 }
-@media only screen and (min-device-width: 1840px) {
+@media all and and (min-device-width: 1840px) {
   .ochki {
     left: 36%;
   }
