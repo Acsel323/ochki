@@ -19,8 +19,8 @@ body {
 .chel {
   position: fixed;
   background: url('../images/chel.svg');
-  width: 537px;
-  height: 568px;
+  width: 491px;
+  height: 741px;
   bottom: 0px;
   background-repeat: no-repeat;
   left: calc(50% - 268.5px);
@@ -30,11 +30,11 @@ body {
   position: fixed;
   background: url('../images/ochki.svg');
   /* left: calc(50%-225px); */
-  left: 37%;
+  left: 30%;
   z-index: 3;
   width: 460px;
   height: 220px;
-  bottom: 22%;
+  bottom: 40%;
   background-repeat: no-repeat;
 }
 
@@ -316,10 +316,10 @@ body {
   height: 615px;
   background-repeat: no-repeat;
   transform: rotate(-22°);
-  animation-name: skew;
+  /* animation-name: skew;
   animation-duration: 1s;
   animation-iteration-count: infinite;
-  animation-timing-function: linear;
+  animation-timing-function: linear; */
 }
 .k2 {
   position: absolute;
