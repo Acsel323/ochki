@@ -549,7 +549,7 @@ body {
   width: 612px;
   height: 713px;
   background-repeat: no-repeat;
-  left: 80%;
+  /* left: 80%; */
 }
 .ochki:hover ~ .f2 .div2 .kot2 {
   top: -150px;
