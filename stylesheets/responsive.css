@@ -1,4 +1,4 @@
-@media all and (min-device-width: 1024px) and (max-device-width: 1280px) {
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1280px) {
   .ochki {
     left: 29%;
   }
@@ -20,7 +20,7 @@
   .star2 {
     top: -380px;
     transform: scale(0.8);
-    right: -18%;
+    /* right: -18%; */
   }
   .kvadrat1 {
     top: 200px;
@@ -112,7 +112,7 @@
     left: 0%;
   }
   .star21 {
-    top: 500px;
+    top: 1200px;
     background-size: 400px;
     background-repeat: no-repeat;
   }
@@ -601,7 +601,7 @@
 
   }
 }
-@media all and and (min-device-width: 1840px) {
+@media only screen  and (min-device-width: 1840px) {
   .ochki {
     left: 36%;
   }
