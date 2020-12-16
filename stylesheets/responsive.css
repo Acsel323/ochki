@@ -1,4 +1,7 @@
 @media all and (min-device-width: 1024px) and (max-device-width: 1280px) {
+  .ochki {
+    left: 29%;
+  }
   .krug1 {
     left: -138px;
     top: -38px;
@@ -63,13 +66,8 @@
     right: -3%;
     background-repeat: no-repeat;
   }
-  .chel {
 
-  }
-  .ochki {
-    left: 32%;
 
-  }
   .f2 {
     top: 1152px;
 
@@ -165,6 +163,9 @@
 }
 
 @media all and (min-device-width: 1680px) and (max-device-width: 1840px) {
+  .ochki {
+    left: 34%
+  }
   .krug1 {
     left: -9px;
     width: 540px;
@@ -198,9 +199,6 @@
     height: 703px;
     top: 900px;
   }
-  .kot {
-
-  }
   .star3 {
     top: 750px;
     left: 180px;
@@ -227,12 +225,8 @@
     right: 0px;
     background-repeat: no-repeat;
   }
-  .chel {
 
-  }
-  .ochki {
 
-  }
   .f2 {
     top: 1575px;
 
@@ -597,7 +591,7 @@
 }
 @media only screen and (min-device-width: 1840px) {
   .ochki {
-    left: 35%;
+    left: 36%;
   }
   .krug1 {
     left: 0px;
