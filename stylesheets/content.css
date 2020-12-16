@@ -16,22 +16,43 @@ body {
   width: 100%;
   overflow: hidden;
 }
-.chel {
+.glavn {
   position: fixed;
+  width: 491px;
+  height: 741px;
+  bottom: 0px;
+  left: calc(50% - 268.5px);
+  z-index: 10;
+
+}
+.chel {
+  position: relative;
   background: url('../images/chel.svg');
   width: 491px;
   height: 741px;
   bottom: 0px;
   background-repeat: no-repeat;
-  left: calc(50% - 268.5px);
-  z-index: 2;
+  /* left: calc(50% - 268.5px); */
+  left: 0px;
+  /* z-index: 1; */
+}
+.rot {
+  position: relative;
+  background: url('../images/rot.svg');
+  /* background: red; */
+  bottom: 40%;
+  left: 40%;
+  width: 100px;
+  height: 40px;
+  background-repeat: no-repeat;
+  z-index: 1;
 }
 .ochki {
   position: fixed;
   background: url('../images/ochki.svg');
   /* left: calc(50%-225px); */
   left: 30%;
-  z-index: 3;
+  z-index: 12;
   width: 460px;
   height: 220px;
   bottom: 40%;
@@ -208,7 +229,7 @@ body {
   /* left: 747px; */
   right: -8%;
   top: 710px;
-  z-index: 1;
+  /* z-index: 1; */
   animation-name: levo;
   animation-duration: 2s;
   animation-iteration-count: infinite;
@@ -592,6 +613,9 @@ body {
 }
 .ochki:hover ~ .krug4 {
   animation-play-state: paused;
+}
+.ochki:hover ~ .glavn .rot {
+  transform: rotate(180deg);
 }
 .krug21:hover ~ .t2 {
   visibility:visible
