@@ -278,7 +278,7 @@ body {
   font-family: 'Soyuz';
   font-size: 48px;
   left: 50%;
-  top: -60px;
+  top: -70px;
   text-align: center;
   visibility:hidden;
 }
@@ -313,16 +313,19 @@ body {
 .k1 {
   position: absolute;
   top: 420px;
-  right: 20%;
+  left: 55%;
   width: 417px;
   height: 615px;
+}
+.treug21 {
+  left: 5%
 }
 .t3 {
   position: absolute;
   font-family: 'Soyuz';
   font-size: 48px;
   left: 40%;
-  top: -60px;
+  top: -70px;
   text-align: center;
   visibility:hidden;
 }
@@ -354,7 +357,7 @@ body {
   font-family: 'Soyuz';
   font-size: 48px;
   left: 40%;
-  top: -60px;
+  top: -70px;
   text-align: center;
   visibility:hidden;
 }
@@ -385,7 +388,7 @@ body {
   font-family: 'Soyuz';
   font-size: 48px;
   left: 50%;
-  top: -50px;
+  top: -70px;
   text-align: center;
   visibility:hidden;
 }
@@ -436,7 +439,7 @@ body {
   font-family: 'Soyuz';
   font-size: 48px;
   left: 40%;
-  top: -50px;
+  top: -70px;
   text-align: center;
   visibility:hidden;
 }
@@ -480,7 +483,7 @@ body {
   font-family: 'Soyuz';
   font-size: 48px;
   left: 40%;
-  top: -50px;
+  top: -70px;
   text-align: center;
   visibility:hidden;
 }
