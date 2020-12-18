@@ -1,4 +1,4 @@
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
   .ochki {
     left: 25%;
   }
@@ -163,7 +163,7 @@
   }
 }
 
-@media only screen and (min-device-width: 1024px) and (max-device-width: 1280px) {
+@media only screen and (min-width: 1024px) and (max-width: 1280px) {
   .ochki {
     left: 25%;
   }
@@ -328,7 +328,7 @@
   }
 }
 
-@media all and (min-device-width: 1680px) and (max-device-width: 1840px) {
+@media all and (min-width: 1680px) and (max-width: 1840px) {
   .ochki {
     left: 34%
   }
@@ -471,7 +471,7 @@
 
   }
 }
-@media all and (min-device-width: 1440px) and (max-device-width: 1680px) {
+@media all and (min-width: 1440px) and (max-width: 1680px) {
   .krug1 {
     left: -39px;
     width: 520px;
@@ -616,7 +616,7 @@
 }
 
 
-@media all and (min-device-width: 1366px) and (max-device-width: 1440px) {
+@media all and (min-width: 1366px) and (max-width: 1440px) {
   .krug1 {
     left: -39px;
     width: 520px;
@@ -765,7 +765,7 @@
 
   }
 }
-@media only screen  and (min-device-width: 1840px) {
+@media only screen  and (min-width: 1840px) {
   .ochki {
     left: 36%;
   }
