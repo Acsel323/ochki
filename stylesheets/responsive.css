@@ -1,7 +1,7 @@
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   .ochki {
     left: 22%;
-    opacity: 0;
+    /* opacity: 0; */
   }
   .krug1 {
     left: -138px;
