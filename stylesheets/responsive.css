@@ -1,16 +1,14 @@
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
-  .ochki {
-    left: 22%;
-    /* opacity: 0; */
-  }
+
   .krug1 {
-    left: -138px;
-    top: -38px;
+    left: -108px;
+    top: 0px;
     width: 439px;
     height: 439px;
   }
   .star1 {
-    left: 0%;
+    left: 2%;
+    top: 30px;
   }
   .palka1 {
     left: calc(50% - 499px);
@@ -19,49 +17,51 @@
     height: 761px;
   }
   .star2 {
-    top: -380px;
+    top: 0px;
     transform: scale(0.8);
-    right: -18%;
+    right: -30%;
   }
   .kvadrat1 {
-    top: 200px;
+    top: 500px;
     width: 535px;
     height: 507px;
-    left: -2%;
+    left: -3%;
   }
   .krug2 {
-    width: 900px;
-    height: 800px;
-    top: 300px;
-    background-size: 700px
+    width: 800px;
+    height: 700px;
+    top: 1000px;
+    background-size: 700px;
   }
   @keyframes pryg {
-    50% {top: 100px;}
+    50% {top: 800px;}
   }
   .kot {
     top: 500px;
   }
   .star3 {
-    top: 550px;
+    top: 800px;
     left: 5%;
     transform: scale(0.8);
   }
   .krug3 {
     right: 50px;
-    top: 450px;
+    top: 790px;
   }
   .treug1 {
     top: 330px;
-    left: 50%
+    left: 50%;
+    opacity: 0;
   }
   .krug4 {
     width: 340px;
     height: 340px;
-    top: 600px;
+    top: 1200px;
     right: 200px;
+    z-index: 5;
   }
   .treug2 {
-    top: 420px;
+    top: 1220px;
     height: 100%;
     right: -3%;
     background-repeat: no-repeat;
@@ -69,17 +69,17 @@
 
 
   .f2 {
-    top: 1152px;
+    top: 1936px;
 
   }
   .t1 {
     position: relative;
     font-size: 100px;
     text-align: center;
-    left: -10%
+    left: -10%;
   }
   .div1 {
-    top: 257px;
+    top: 357px;
     width: 372px;
     height: 350px;
     left: 4%;
@@ -98,43 +98,44 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    left: 30%;
-    top: 490px
+    left: 29%;
+    top: 790px
   }
   .treug21 {
+    top: 200px;
     left: 60%;
     background-size: 250px;
     background-repeat: no-repeat;
   }
   .k2 {
-    top: 800px;
+    top: 1500px;
     left: 0%;
   }
   .star21 {
-    top: 150px;
+    top: 0px;
     background-size: 400px;
     background-repeat: no-repeat;
   }
   .div2 {
     width: 420px;
     height: 348px;
-    top: 1160px;
-    left: 32%;
+    top: 2000px;
+    left: 29%;
     transform: scale(.9);
   }
   .kot2 {
-
+    left: 80%;
   }
   .kvadrat22 {
-    height: 490px;
+    height: 790px;
     width: 400px;
-    left: 50%;
-  }
-  .treug22 {
     left: 40%;
   }
+  .treug22 {
+    left: 37%;
+  }
   .div3 {
-    top: 1850px;
+    top: 3000px;
     width: 771px;
     height: 386px;
     left: 0%
@@ -148,8 +149,8 @@
   }
   .div4 {
     width: 330px;
-    top: 2070px;
-    left: 50%;
+    top: 3650px;
+    left: 40%;
     height: 190px
   }
   .krug23 {
@@ -165,9 +166,7 @@
 }
 
 @media only screen and (min-width: 1024px) and (max-width: 1280px) {
-  .ochki {
-    left: 25%;
-  }
+
   .krug1 {
     left: -138px;
     top: -38px;
@@ -217,7 +216,7 @@
   }
   .treug1 {
     top: 330px;
-    left: 50%
+    left: 50%;
   }
   .krug4 {
     width: 340px;
@@ -241,7 +240,7 @@
     position: relative;
     font-size: 100px;
     text-align: center;
-    left: -10%
+    left: -10%;
   }
   .div1 {
     top: 257px;
@@ -330,9 +329,6 @@
 }
 
 @media all and (min-width: 1680px) and (max-width: 1840px) {
-  .ochki {
-    left: 34%
-  }
   .krug1 {
     left: -9px;
     width: 540px;
@@ -533,9 +529,7 @@
   .chel {
 
   }
-  .ochki {
-    left: 34%;
-  }
+
   .f2 {
     top: 1350px;
 
@@ -680,9 +674,7 @@
   .chel {
 
   }
-  .ochki {
-    left: 34%;
-  }
+
   .f2 {
     top: 1350px;
 
@@ -767,9 +759,7 @@
   }
 }
 @media only screen  and (min-width: 1840px) {
-  .ochki {
-    left: 36%;
-  }
+
   .krug1 {
     left: 0px;
     width: 580px;
