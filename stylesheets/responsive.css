@@ -1,3 +1,5 @@
+
+
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   .ochki {
     bottom: 35%;
@@ -915,4 +917,11 @@
 
   }
 
+}
+
+@media only screen and (min-width: 414px) and (max-width: 768px) {
+  .ochki {
+    bottom: 23%;
+    opacity: 0;
+  }
 }
