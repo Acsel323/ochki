@@ -6,7 +6,7 @@ body {
   width: 100%;
   margin: 0 auto;
   background: #F7EFE2;
-  height: 4725px;
+  height: 6025px;
   display: block;
   position: absolute;
 }
@@ -50,8 +50,7 @@ body {
 .ochki {
   position: fixed;
   background: url('../images/ochki.svg');
-  /* left: calc(50%-225px); */
-  left: 30%;
+  left: calc(50% - 280px);
   z-index: 12;
   width: 460px;
   height: 220px;
