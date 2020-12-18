@@ -1,6 +1,20 @@
 @media only screen and (min-width: 414px) and (max-width: 768px) {
   .ochki {
-    bottom: 23%;
+    bottom: 35%;
+  }
+  .krug1 {
+    left: -108px;
+    top: -50px;
+    width: 239px;
+    height: 239px;
+  }
+  .star1 {
+    left: -7%;
+    top: -100px;
+    transform: scale(.5);
+  }
+  .star2 {
+    left: 20%;
   }
 }
 
@@ -78,7 +92,6 @@
 
   .f2 {
     top: 1936px;
-
   }
   .t1 {
     position: relative;
