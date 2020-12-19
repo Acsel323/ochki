@@ -5,17 +5,172 @@
   .krug1 {
     left: -108px;
     top: -50px;
-    width: 239px;
-    height: 239px;
+    width: 400px;
+    height: 400px;
   }
   .star1 {
     left: -7%;
     top: -100px;
     transform: scale(.5);
   }
+  .palka1 {
+    left: calc(50% - 499px);
+    top: -150px;
+    width: 120px;
+    height: 761px;
+  }
   .star2 {
     left: 20%;
   }
+  .kvadrat1 {
+    top: 200px;
+    width: 535px;
+    height: 507px;
+    left: -15%;
+  }
+  .krug2 {
+    width: 800px;
+    height: 700px;
+    top: 400px;
+    background-size: 500px;
+  }
+  @keyframes pryg {
+    50% {top: 800px;}
+  }
+  .kot {
+    top: 500px;
+  }
+  .star3 {
+    top: 600px;
+    left: 5%;
+    background-size: 400px;
+  }
+  .krug3 {
+    left: 10%;
+    top: 590px;
+    background-size: 500px;
+  }
+  .treug1 {
+    top: 330px;
+    left: 50%;
+    opacity: 0;
+  }
+  .krug4 {
+    width: 340px;
+    height: 340px;
+    top: 800px;
+    right: 200px;
+    z-index: 5;
+  }
+  .treug2 {
+    top: 650px;
+    height: 100%;
+    right: -70%;
+    background-repeat: no-repeat;
+    background-size: 400px;
+  }
+
+
+  .f2 {
+    top: 1110px;
+  }
+  .t1 {
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+    left: -34%;
+  }
+  .div1 {
+    top: 207px;
+    width: 372px;
+    height: 350px;
+    left: 0%;
+  }
+  .ochki:hover ~ .div1 {
+    transform: scale(.5);
+  }
+  .krug21 {
+    width: 340px;
+    height: 340px;
+  }
+  .kvadrat21 {
+    width: 120px;
+    height: 120px;
+    bottom: 0px;
+    left: 10px;
+  }
+  .k1 {
+    width: 512px;
+    height: 744px;
+    background-repeat: no-repeat;
+    left: -9%;
+    top: 490px;
+    /* background-size: 400px; */
+  }
+  .treug21 {
+    top: 150px;
+    left: 60%;
+    background-size: 250px;
+    background-repeat: no-repeat;
+  }
+  .k2 {
+    top: 1100px;
+    left: 0%;
+    background: 100px;
+  }
+  .star21 {
+    top: 0px;
+    background-size: 400px;
+    background-repeat: no-repeat;
+  }
+  .div2 {
+    width: 420px;
+    height: 348px;
+    top: 1800px;
+    left: 0%;
+    transform: scale(.9);
+  }
+  .kot2 {
+    left: 80%;
+  }
+  .kvadrat22 {
+    height: 790px;
+    width: 400px;
+    left: 40%;
+  }
+  .treug22 {
+    left: 37%;
+  }
+  .div3 {
+    top: 3000px;
+    width: 771px;
+    height: 386px;
+    left: 0%
+  }
+  .treug23 {
+    background-size: 400px
+  }
+  .krug22 {
+    height: 200px;
+    width: 200px;
+  }
+  .div4 {
+    width: 330px;
+    top: 3650px;
+    left: 40%;
+    height: 190px
+  }
+  .krug23 {
+    left: 0px;
+    height: 190px;
+    width: 190px;
+  }
+  .krug24 {
+    right: 0px;
+    height: 100px;
+    width: 100px;
+  }
+
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
