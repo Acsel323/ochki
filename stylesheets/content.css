@@ -512,7 +512,7 @@ body {
   opacity: 0;
 }
 .ochki:hover ~ .f2 .div1 {
-  background: url('../images/stul1.svg');
+  /* background: url('../images/stul1.svg'); */
   width: 343px;
   height: 400px;
   background-repeat: no-repeat;
