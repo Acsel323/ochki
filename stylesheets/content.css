@@ -508,6 +508,65 @@ body {
   bottom: 0%;
   right: 0%;
 }
+.f3{
+  position: absolute;
+  top: 3900px;
+  background: #007EF2;
+  width: 1280px;
+  height: 123px;
+}
+.t21 {
+  position: absolute;
+  font-family: helvetica;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  top: 41px;
+  left: 55px;
+}
+.t22 {
+  position: absolute;
+  font-family: helvetica;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  top: 41px;
+  left: 466px;
+}
+.t23 {
+  position: absolute;
+  font-family: helvetica;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  top: 41px;
+  left: 586px;
+}
+.t24 {
+  position: absolute;
+  font-family: helvetica;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  top: 41px;
+  left: 704px;
+}
+.t25 {
+  position: absolute;
+  font-family: helvetica;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  top: 41px;
+  left: 841px;
+}
+.t26 {
+  position: absolute;
+  font-family: helvetica;
+  font-size: 30px;
+  color: white;
+  right: 55px;
+}
 .ochki:hover {
   opacity: 0;
 }
