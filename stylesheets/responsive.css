@@ -41,7 +41,7 @@
     height: 761px;
   }
   .star2 {
-    left: 20%;
+    left: 5%;
   }
   .kvadrat1 {
     top: 200px;
@@ -52,7 +52,7 @@
   .krug2 {
     width: 800px;
     height: 700px;
-    top: 400px;
+    top: 200px;
     background-size: 500px;
   }
   @keyframes pryg {
@@ -100,6 +100,7 @@
     font-size: 50px;
     text-align: center;
     left: -34%;
+    top: 100px;
   }
   .div1 {
     top: 207px;
@@ -178,7 +179,7 @@
   }
   .div4 {
     width: 330px;
-    top: 2000px;
+    top: 2100px;
     left: 0.5%;
     height: 190px
   }
