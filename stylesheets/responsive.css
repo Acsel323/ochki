@@ -148,15 +148,15 @@
   .div2 {
     width: 420px;
     height: 348px;
-    top: 1400px;
-    left: 5%;
+    top: 1100px;
+    left: 0%;
     transform: scale(.9);
   }
   .kot2 {
     left: 80%;
   }
   .kvadrat22 {
-    height: 490px;
+    height: 400px;
     width: 300px;
     left: 20%;
   }
@@ -164,7 +164,7 @@
     left: 17%;
   }
   .div3 {
-    top: 1600px;
+    top: 1650px;
     width: 771px;
     height: 386px;
     left: -10%
@@ -216,8 +216,8 @@
     background: url('../images/shkaf2.svg');
     width: 323px;
     height: 360px;
-    left: 10%;
-    top: 1600px;
+    left: 7%;
+    top: 1200px;
   }
   .ochki:hover ~ .f2 .div3 {
     background: url('../images/holod2.svg');
@@ -229,7 +229,7 @@
     background: url('../images/dver2.svg');
     width: 127px;
     height: 240px;
-    left: 4%
+    left: 20%
   }
 }
 
