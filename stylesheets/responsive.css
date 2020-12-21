@@ -25,6 +25,230 @@
     bottom: 24%;
     background-repeat: no-repeat;
   }
+  .krug1 {
+    left: -28px;
+    top: -20px;
+    width: 200px;
+    height: 200px;
+  }
+  .star1 {
+    left: -30%;
+    top: -100px;
+    transform: scale(.5);
+  }
+  .palka1 {
+    left: calc(50% - 499px);
+    top: -150px;
+    width: 120px;
+    height: 761px;
+    opacity: 0;
+  }
+  .star2 {
+    left: 5%;
+  }
+  .kvadrat1 {
+    top: 200px;
+    width: 235px;
+    height: 207px;
+    left: -15%;
+  }
+  .krug2 {
+    width: 800px;
+    height: 700px;
+    top: 50px;
+    left: -100%;
+    background-size: 300px;
+    animation-play-state: paused;
+
+  }
+  @keyframes pryg {
+    50% {top: 650px;}
+  }
+  .kot {
+    top: 500px;
+  }
+  .star3 {
+    top: 390px;
+    left: -9%;
+    background-size: 400px;
+    animation-play-state: paused;
+    background-size: 300px;
+  }
+  .krug3 {
+    left: 4%;
+    top: 590px;
+    background-size: 300px;
+  }
+  .treug1 {
+    top: 330px;
+    left: 50%;
+    opacity: 0;
+  }
+  .krug4 {
+    width: 200px;
+    height: 200px;
+    top: 600px;
+    right: 200px;
+    z-index: 5;
+  }
+  .treug2 {
+    top: 400px;
+    height: 100%;
+    left: 2%;
+    background-repeat: no-repeat;
+    background-size: 200px;
+  }
+  .f2 {
+    top: 568px;
+  }
+  .t1 {
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    left: -34%;
+    top: 300px;
+  }
+  .div1 {
+    top: 400px;
+    width: 240px;
+    height: 230px;
+    left: 0%;
+  }
+  .krug21 {
+    width: 200px;
+    height: 200px;
+  }
+  .kvadrat21 {
+    width: 70px;
+    height: 70px;
+    bottom: 0px;
+    left: 10px;
+  }
+  .k1 {
+    width: 512px;
+    height: 744px;
+    background-repeat: no-repeat;
+    left: -20%;
+    top: 400px;
+    background-size: 200px;
+  }
+  .treug21 {
+    top: 140px;
+    left: 60%;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    transform: scale(.7);
+
+  }
+  .k2 {
+    top: 900px;
+    left: 0%;
+    /* background: 100px; */
+  }
+  .star21 {
+    background: url('../images/starr.svg');
+    width: 254px;
+    height: 266px;
+    top: 0px;
+    /* background-size: 400px; */
+    /* transform: scale(.1); */
+    background-repeat: no-repeat;
+  }
+  .div2 {
+    width: 420px;
+    height: 348px;
+    top: 1100px;
+    left: 0%;
+    transform: scale(.9);
+  }
+  .kot2 {
+    left: 80%;
+    opacity: 0;
+  }
+  .kvadrat22 {
+    height: 300px;
+    width: 200px;
+    left: 15%;
+  }
+  .treug22 {
+    left: 17%;
+  }
+  .div3 {
+    top: 1600px;
+    width: 771px;
+    height: 386px;
+    left: -10%
+  }
+  .treug23 {
+    background-size: 200px
+  }
+  .krug22 {
+    top: 60px;
+    height: 100px;
+    width: 100px;
+    left: 12%;
+  }
+  @keyframes vpravo {
+    50% {left: 32%;}
+  }
+  .div4 {
+    width: 200px;
+    top: 1800px;
+    left: 6%;
+    height: 130px
+  }
+  .krug23 {
+    left: 0px;
+    height: 130px;
+    width: 130px;
+  }
+  .krug24 {
+    right: 0px;
+    height: 65px;
+    width: 65px;
+  }
+  .ochki:hover ~ .f2 .div1 {
+    background: url('../images/stul3.svg');
+    width: 176px;
+    height: 230px;
+    left: 1%
+  }
+  .ochki:hover ~ .f2 .k1 {
+    background: url('../images/krovat3.svg');
+    width: 243px;
+    height: 225px;
+    left: 5%;
+    top: 670px;
+  }
+  .ochki:hover ~ .f2 .k2 {
+    background: url('../images/stol3.svg');
+    width: 196px;
+    height: 188px;
+    left: 2%;
+    top: 950px;
+  }
+  .ochki:hover ~ .f2 .div2 {
+    background: url('../images/shkaf3.svg');
+    width: 247px;
+    height: 277px;
+    left: 5%;
+    top: 1200px;
+  }
+  .ochki:hover ~ .f2 .div3 {
+    background: url('../images/holod3.svg');
+    width: 165px;
+    height: 261px;
+    left: 3%;
+    top: 1500px;
+  }
+  .ochki:hover ~ .f2 .div4 {
+    background: url('../images/dver3.svg');
+    width: 88px;
+    height: 183px;
+    left: 13%
+  }
+}
+
 }
 @media only screen and (min-width: 414px) and (max-width: 768px) {
   .glavn {
