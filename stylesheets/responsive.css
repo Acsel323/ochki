@@ -1,495 +1,25 @@
-/* @media only screen and (min-width: 880px) and (max-width: 1024px) {
-  .k1 {
-    left: 60%;
-  }
-} */
-@media only screen and (min-width: 320px) and (max-width: 414px) {
-  .glavn {
-    left: calc(50% - 90px);
-    width: 179px;
-    height: 270px;
-  }
-  .chel {
-    background: url('../images/chel3.svg');
-    width: 179px;
-    height: 270px;
-    background-repeat: no-repeat;
-    bottom: 0px;
-  }
-  .rot {
-    background: url('../images/rot3.svg');
-    width: 30px;
-    height: 15px;
-    background-repeat: no-repeat;
-  }
-  .ochki {
-    left: calc(50% - 89px);
-    background: url('../images/ochki3.svg');
-    width: 169px;
-    height: 78px;
-    bottom: 135px;
-    background-repeat: no-repeat;
-  }
-  .krug1 {
-    left: -28px;
-    top: -20px;
-    width: 200px;
-    height: 200px;
-  }
-  .star1 {
-    left: -30%;
-    top: -100px;
-    transform: scale(.8);
-  }
-  .palka1 {
-    left: calc(50% - 499px);
-    top: -150px;
-    width: 120px;
-    height: 761px;
-    opacity: 0;
-  }
-  .star2 {
-    left: 5%;
-  }
-  .kvadrat1 {
-    top: 200px;
-    width: 235px;
-    height: 207px;
-    left: -15%;
-  }
-  .krug2 {
-    width: 800px;
-    height: 700px;
-    top: -100px;
-    left: -88%;
-    background-size: 300px;
-    animation-play-state: paused;
-
-  }
-  @keyframes pryg {
-    50% {top: 550px;}
-  }
-  .kot {
-    top: 500px;
-  }
-  .star3 {
-    top: 280px;
-    left: -9%;
-    background-size: 400px;
-    animation-play-state: paused;
-    background-size: 300px;
-  }
-  .krug3 {
-    left: 4%;
-    top: 350px;
-    background-size: 300px;
-  }
-  .treug1 {
-    top: 330px;
-    left: 50%;
-    opacity: 0;
-  }
-  .krug4 {
-    width: 200px;
-    height: 200px;
-    top: 600px;
-    right: 200px;
-    z-index: 5;
-  }
-  .treug2 {
-    top: 350px;
-    height: 100%;
+@media only screen and (min-width: 900px) and (max-width: 1024px) {
+  .t2 {
     left: 40%;
-    background-repeat: no-repeat;
-    background-size: 200px;
   }
-  .f2 {
-    top: 568px;
-  }
-  .t1 {
-    position: relative;
-    font-size: 30px;
-    text-align: center;
-    left: 0%;
-    top: 300px;
-  }
-  .div1 {
-    top: 400px;
-    width: 240px;
-    height: 230px;
-    left: 0%;
-  }
-  .krug21 {
-    width: 200px;
-    height: 200px;
-  }
-  .kvadrat21 {
-    width: 70px;
-    height: 70px;
-    bottom: 0px;
-    left: 10px;
-  }
-  .k1 {
-    width: 512px;
-    height: 744px;
-    background-repeat: no-repeat;
-    left: -80%;
-    top: 400px;
-    background-size: 200px;
-  }
-  .treug21 {
-    top: 140px;
-    left: 60%;
-    background-size: 250px;
-    background-repeat: no-repeat;
-    transform: scale(.7);
-
-  }
-  .k2 {
-    top: 900px;
-    left: 0%;
-    /* background: 100px; */
-  }
-  .star21 {
-    background: url('../images/starr.svg');
-    width: 254px;
-    height: 266px;
-    top: 0px;
-    /* background-size: 400px; */
-    /* transform: scale(.1); */
-    background-repeat: no-repeat;
-  }
-  .div2 {
-    width: 420px;
-    height: 348px;
-    top: 1100px;
-    left: 2%;
-    transform: scale(.9);
-  }
-  .kot2 {
-    left: 80%;
-    opacity: 0;
-  }
-  .kvadrat22 {
-    height: 300px;
-    width: 200px;
-    left: 15%;
-  }
-  .treug22 {
-    left: 17%;
-  }
-  .div3 {
-    top: 1600px;
-    width: 771px;
-    height: 386px;
-    left: -30%
-  }
-  .treug23 {
-    background-size: 200px
-  }
-  .krug22 {
-    top: 60px;
-    height: 100px;
-    width: 100px;
-    left: 12%;
-  }
-  @keyframes vpravo {
-    50% {left: 32%;}
-  }
-  .div4 {
-    width: 200px;
-    top: 1800px;
-    left: 30%;
-    height: 130px;
-  }
-  .krug23 {
-    left: 0px;
-    height: 130px;
-    width: 130px;
-  }
-  .krug24 {
-    right: 0px;
-    height: 65px;
-    width: 65px;
-  }
-  .ochki:hover ~ .f2 .div1 {
-    background: url('../images/stul3.svg');
-    width: 176px;
-    height: 230px;
-    left: 1%
-  }
-  .ochki:hover ~ .f2 .k1 {
-    background: url('../images/krovat3.svg');
-    width: 243px;
-    height: 225px;
-    left: 20%;
-    top: 670px;
-  }
-  .ochki:hover ~ .f2 .k2 {
-    background: url('../images/stol3.svg');
-    width: 196px;
-    height: 188px;
-    left: 2%;
-    top: 950px;
-  }
-  .ochki:hover ~ .f2 .div2 {
-    background: url('../images/shkaf3.svg');
-    width: 247px;
-    height: 277px;
-    left: 19%;
-    top: 1200px;
-  }
-  .ochki:hover ~ .f2 .div3 {
-    background: url('../images/holod3.svg');
-    width: 165px;
-    height: 261px;
-    left: 3%;
-    top: 1500px;
-  }
-  .ochki:hover ~ .f2 .div4 {
-    background: url('../images/dver3.svg');
-    width: 88px;
-    height: 183px;
-    left: 65%
-  }
-}
-
-@media only screen and (min-width: 414px) and (max-width: 568px) {
-  .glavn {
-    left: calc(50% - 135px);
-    width: 271px;
-    height: 408px;
-  }
-  .chel {
-    background: url('../images/chel2.svg');
-    width: 271px;
-    height: 408px;
-    bottom: 0%;
-  }
-  .rot {
-    background: url('../images/rot2.svg');
-    width: 45px;
-    height: 20px;
-    background-repeat: no-repeat;
-  }
-  .ochki {
-    left: calc(50% - 133px);
-    background: url('../images/ochki2.svg');
-    width: 255px;
-    height: 120px;
-    bottom: 185px;
-  }
-  .krug1 {
-    left: -108px;
-    top: -50px;
-    width: 400px;
-    height: 400px;
-  }
-  .star1 {
-    left: -7%;
-    top: -100px;
-    transform: scale(.5);
-  }
-  .palka1 {
-    left: calc(50% - 499px);
-    top: -150px;
-    width: 120px;
-    height: 761px;
-  }
-  .star2 {
-    left: 5%;
-  }
-  .kvadrat1 {
-    top: 200px;
-    width: 535px;
-    height: 507px;
-    left: -15%;
-  }
-  .krug2 {
-    width: 800px;
-    height: 700px;
-    top: 200px;
-    background-size: 500px;
-  }
-  @keyframes pryg {
-    50% {top: 800px;}
-  }
-  .kot {
-    top: 500px;
-  }
-  .star3 {
-    top: 600px;
-    left: 5%;
-    background-size: 400px;
-  }
-  .krug3 {
-    left: 10%;
-    top: 590px;
-    background-size: 500px;
-  }
-  .treug1 {
-    top: 330px;
-    left: 50%;
-    opacity: 0;
-  }
-  .krug4 {
-    width: 340px;
-    height: 340px;
-    top: 800px;
-    right: 200px;
-    z-index: 5;
-  }
-  .treug2 {
-    top: 650px;
-    height: 100%;
-    right: -70%;
-    background-repeat: no-repeat;
-    background-size: 400px;
-  }
-
-
-  .f2 {
-    top: 1110px;
-  }
-  .t1 {
-    position: relative;
-    font-size: 50px;
-    text-align: center;
-    left: 0%;
+  .t3 {
+    left: 65%;
     top: 100px;
   }
-  .div1 {
-    top: 207px;
-    width: 302px;
-    height: 330px;
-    left: 0%;
+  .t4 {
+    top: -80px;
   }
-  .krug21 {
-    width: 280px;
-    height: 280px;
+  .t5 {
+    left: 76%;
   }
-  .kvadrat21 {
-    width: 120px;
-    height: 110px;
-    bottom: 0px;
-    left: 10px;
+  .t6 {
+    left: 25%;
+    top: -80px;
   }
-  .k1 {
-    width: 512px;
-    height: 744px;
-    background-repeat: no-repeat;
-    left: -40%;
-    top: 420px;
-    /* background-size: 400px; */
+  .t7 {
+    left: 38%;
+    top: -80px;
   }
-  .treug21 {
-    top: 150px;
-    left: 60%;
-    background-size: 250px;
-    background-repeat: no-repeat;
-  }
-  .k2 {
-    top: 930px;
-    left: 0%;
-    /* background: 100px; */
-  }
-  .star21 {
-    background: url('../images/starr.svg');
-    width: 254px;
-    height: 266px;
-    top: 0px;
-    /* background-size: 400px; */
-    /* transform: scale(.1); */
-    background-repeat: no-repeat;
-  }
-  .div2 {
-    width: 420px;
-    height: 348px;
-    top: 1100px;
-    left: 0%;
-    transform: scale(.9);
-  }
-  .kot2 {
-    left: 80%;
-  }
-  .kvadrat22 {
-    height: 400px;
-    width: 300px;
-    left: 20%;
-  }
-  .treug22 {
-    left: 17%;
-  }
-  .div3 {
-    top: 1650px;
-    width: 771px;
-    height: 386px;
-    left: -30%
-  }
-  .treug23 {
-    background-size: 400px
-  }
-  .krug22 {
-    height: 200px;
-    width: 200px;
-  }
-  .div4 {
-    width: 330px;
-    top: 2100px;
-    left: 15%;
-    height: 190px
-  }
-  .krug23 {
-    left: 0px;
-    height: 190px;
-    width: 190px;
-  }
-  .krug24 {
-    right: 0px;
-    height: 100px;
-    width: 100px;
-  }
-  .ochki:hover ~ .f2 .div1 {
-    background: url('../images/stul2.svg');
-    width: 233px;
-    height: 307px;
-    left: 1%
-  }
-  .ochki:hover ~ .f2 .k1 {
-    background: url('../images/krovat2.svg');
-    width: 323px;
-    height: 287px;
-    left: 19%;
-    top: 550px;
-  }
-  .ochki:hover ~ .f2 .k2 {
-    background: url('../images/stol2.svg');
-    width: 260px;
-    height: 247px;
-    left: 0%;
-    top: 900px;
-  }
-  .ochki:hover ~ .f2 .div2 {
-    background: url('../images/shkaf2.svg');
-    width: 323px;
-    height: 360px;
-    left: 19%;
-    top: 1200px;
-  }
-  .ochki:hover ~ .f2 .div3 {
-    background: url('../images/holod2.svg');
-    width: 225px;
-    height: 360px;
-    left: 10%;
-  }
-  .ochki:hover ~ .f2 .div4 {
-    background: url('../images/dver2.svg');
-    width: 127px;
-    height: 240px;
-    left: 60%
-  }
-}
-@media only screen and (min-width: 568px) and (max-width: 1024px) {
   .ochki {
     bottom: 344px;
   }
@@ -521,7 +51,7 @@
     left: -3%;
   }
   .krug2 {
-    width: 800px;
+    width: 1000px;
     height: 700px;
     top: 1000px;
     background-size: 700px;
@@ -591,8 +121,197 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    left: 11%;
-    top: 790px
+    left: 35%;
+    top: 790px;
+  }
+  .treug21 {
+    top: 200px;
+    left: 60%;
+    background-size: 250px;
+    background-repeat: no-repeat;
+  }
+  .k2 {
+    top: 1460px;
+    left: -1%;
+  }
+  .star21 {
+    top: -20px;
+    background-size: 400px;
+    background-repeat: no-repeat;
+  }
+  .div2 {
+    width: 420px;
+    height: 348px;
+    top: 2000px;
+    left: 30%;
+    transform: scale(.9);
+  }
+  .kot2 {
+    left: 80%;
+  }
+  .kvadrat22 {
+    height: 790px;
+    width: 400px;
+    left: 40%;
+  }
+  .treug22 {
+    left: 37%;
+  }
+  .div3 {
+    top: 3000px;
+    width: 771px;
+    height: 386px;
+    left: 0%;
+  }
+  .treug23 {
+    background-size: 400px;
+  }
+  .krug22 {
+    height: 200px;
+    width: 200px;
+  }
+  .div4 {
+    width: 330px;
+    top: 3650px;
+    left: 53%;
+    height: 190px;
+  }
+  .krug23 {
+    left: 0px;
+    height: 190px;
+    width: 190px;
+  }
+  .krug24 {
+    right: 0px;
+    height: 100px;
+    width: 100px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 900px) {
+  .t2 {
+    left: 40%;
+  }
+  .t3 {
+    left: 65%;
+    top: 100px;
+  }
+  .t4 {
+    top: -80px;
+  }
+  .t5 {
+    left: 76%;
+  }
+  .t6 {
+    left: 25%;
+    top: -80px;
+  }
+  .t7 {
+    left: 38%;
+    top: -80px;
+  }
+  .ochki {
+    bottom: 344px;
+  }
+  .krug1 {
+    left: -108px;
+    top: 0px;
+    width: 439px;
+    height: 439px;
+  }
+  .star1 {
+    left: 2%;
+    top: 30px;
+  }
+  .palka1 {
+    left: calc(50% - 499px);
+    top: -71px;
+    width: 120px;
+    height: 761px;
+  }
+  .star2 {
+    top: 0px;
+    transform: scale(0.8);
+    right: -30%;
+  }
+  .kvadrat1 {
+    top: 500px;
+    width: 535px;
+    height: 507px;
+    left: -3%;
+  }
+  .krug2 {
+    width: 1000px;
+    height: 700px;
+    top: 1000px;
+    background-size: 700px;
+  }
+  @keyframes pryg {
+    50% {top: 800px;}
+  }
+  .kot {
+    top: 500px;
+  }
+  .star3 {
+    top: 800px;
+    left: 5%;
+    transform: scale(0.8);
+  }
+  .krug3 {
+    right: 50px;
+    top: 790px;
+  }
+  .treug1 {
+    top: 330px;
+    left: 50%;
+    opacity: 0;
+  }
+  .krug4 {
+    width: 340px;
+    height: 340px;
+    top: 1200px;
+    right: 200px;
+    z-index: 5;
+  }
+  .treug2 {
+    top: 1220px;
+    height: 100%;
+    right: -3%;
+    background-repeat: no-repeat;
+  }
+
+
+  .f2 {
+    top: 1936px;
+    width: 100%;
+  }
+  .t1 {
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+    left: 0%;
+  }
+  .div1 {
+    top: 357px;
+    width: 372px;
+    height: 350px;
+    left: 4%;
+  }
+  .krug21 {
+    width: 340px;
+    height: 340px;
+  }
+  .kvadrat21 {
+    width: 120px;
+    height: 120px;
+    bottom: 0px;
+    left: 10px;
+  }
+  .k1 {
+    width: 512px;
+    height: 744px;
+    background-repeat: no-repeat;
+    left: 18%;
+    top: 790px;
   }
   .treug21 {
     top: 200px;
@@ -613,7 +332,7 @@
     width: 420px;
     height: 348px;
     top: 2000px;
-    left: 12%;
+    left: 18%;
     transform: scale(.9);
   }
   .kot2 {
@@ -631,10 +350,10 @@
     top: 3000px;
     width: 771px;
     height: 386px;
-    left: 0%
+    left: 0%;
   }
   .treug23 {
-    background-size: 400px
+    background-size: 400px;
   }
   .krug22 {
     height: 200px;
@@ -644,7 +363,730 @@
     width: 330px;
     top: 3650px;
     left: 53%;
-    height: 190px
+    height: 190px;
+  }
+  .krug23 {
+    left: 0px;
+    height: 190px;
+    width: 190px;
+  }
+  .krug24 {
+    right: 0px;
+    height: 100px;
+    width: 100px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 414px) {
+  .t2 {
+    font-size: 25px;
+    left: 37%;
+    top: -15px;
+  }
+  .t3 {
+    font-size: 40px;
+    left: 75%;
+    top: 170px;
+  }
+  .t4 {
+    font-size: 40px;
+    left: 14%;
+    top: -40px;
+  }
+  .t5 {
+    font-size: 40px;
+    left: 29%;
+    top: 45px;
+  }
+  .t6 {
+    font-size: 40px;
+    left: 15%;
+    top: -65px;
+  }
+  .t7 {
+    font-size: 40px;
+    left: 36%;
+    top: -55px;
+  }
+  .glavn {
+    left: calc(50% - 90px);
+    width: 179px;
+    height: 270px;
+  }
+  .chel {
+    background: url('../images/chel3.svg');
+    width: 179px;
+    height: 270px;
+    background-repeat: no-repeat;
+    bottom: 0px;
+  }
+  .rot {
+    background: url('../images/rot3.svg');
+    width: 30px;
+    height: 15px;
+    background-repeat: no-repeat;
+  }
+  .ochki {
+    left: calc(50% - 89px);
+    background: url('../images/ochki3.svg');
+    width: 169px;
+    height: 78px;
+    bottom: 135px;
+    background-repeat: no-repeat;
+  }
+  .krug1 {
+    left: -28px;
+    top: -20px;
+    width: 200px;
+    height: 200px;
+  }
+  .star1 {
+    left: -30%;
+    top: -100px;
+    transform: scale(.8);
+  }
+  .palka1 {
+    left: calc(50% - 499px);
+    top: -150px;
+    width: 120px;
+    height: 761px;
+    opacity: 0;
+  }
+  .star2 {
+    left: 5%;
+  }
+  .kvadrat1 {
+    top: 200px;
+    width: 235px;
+    height: 207px;
+    left: -15%;
+  }
+  .krug2 {
+    width: 860px;
+    height: 700px;
+    top: -350px;
+    left: -88%;
+    background-size: 300px;
+    animation-play-state: paused;
+
+  }
+  @keyframes pryg {
+    50% {top: 550px;}
+  }
+  .kot {
+    top: 500px;
+  }
+  .star3 {
+    top: 370px;
+    left: -9%;
+    background-size: 400px;
+    animation-play-state: paused;
+    background-size: 300px;
+  }
+  .krug3 {
+    left: 4%;
+    top: 350px;
+    background-size: 300px;
+  }
+  .treug1 {
+    top: 330px;
+    left: 50%;
+    opacity: 0;
+  }
+  .krug4 {
+    width: 200px;
+    height: 200px;
+    top: 600px;
+    right: 200px;
+    z-index: 5;
+  }
+  .treug2 {
+    top: 350px;
+    height: 100%;
+    left: 40%;
+    background-repeat: no-repeat;
+    background-size: 200px;
+  }
+  .f2 {
+    top: 568px;
+  }
+  .t1 {
+    position: relative;
+    font-size: 45px;
+    text-align: center;
+    left: 0%;
+    top: 300px;
+  }
+  .div1 {
+    top: 400px;
+    width: 240px;
+    height: 230px;
+    left: 0%;
+  }
+  .krug21 {
+    width: 200px;
+    height: 200px;
+  }
+  .kvadrat21 {
+    width: 70px;
+    height: 70px;
+    bottom: 0px;
+    left: 10px;
+  }
+  .k1 {
+    width: 512px;
+    height: 744px;
+    background-repeat: no-repeat;
+    left: -80%;
+    top: 400px;
+    background-size: 200px;
+  }
+  .treug21 {
+    top: 140px;
+    left: 60%;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    transform: scale(.7);
+
+  }
+  .k2 {
+    top: 900px;
+    left: 0%;
+  }
+  .star21 {
+    background: url('../images/starr.svg');
+    width: 254px;
+    height: 266px;
+    top: 0px;
+    background-repeat: no-repeat;
+  }
+  .div2 {
+    width: 420px;
+    height: 348px;
+    top: 1100px;
+    left: 2%;
+    transform: scale(.9);
+  }
+  .kot2 {
+    left: 80%;
+    opacity: 0;
+  }
+  .kvadrat22 {
+    height: 300px;
+    width: 200px;
+    left: 15%;
+  }
+  .treug22 {
+    left: 17%;
+  }
+  .div3 {
+    top: 1600px;
+    width: 771px;
+    height: 386px;
+    left: -30%;
+  }
+  .treug23 {
+    background-size: 200px
+  }
+  .krug22 {
+    top: 60px;
+    height: 100px;
+    width: 100px;
+    left: 12%;
+  }
+  @keyframes vpravo {
+    50% {left: 32%;}
+  }
+  .div4 {
+    width: 200px;
+    top: 1800px;
+    left: 30%;
+    height: 130px;
+  }
+  .krug23 {
+    left: 0px;
+    height: 130px;
+    width: 130px;
+  }
+  .krug24 {
+    right: 0px;
+    height: 65px;
+    width: 65px;
+  }
+  .ochki:hover ~ .f2 .div1 {
+    background: url('../images/stul3.svg');
+    width: 176px;
+    height: 230px;
+    left: 1%;
+  }
+  .ochki:hover ~ .f2 .k1 {
+    background: url('../images/krovat3.svg');
+    width: 243px;
+    height: 225px;
+    left: 20%;
+    top: 670px;
+  }
+  .ochki:hover ~ .f2 .k2 {
+    background: url('../images/stol3.svg');
+    width: 196px;
+    height: 188px;
+    left: 2%;
+    top: 950px;
+  }
+  .ochki:hover ~ .f2 .div2 {
+    background: url('../images/shkaf3.svg');
+    width: 247px;
+    height: 277px;
+    left: 19%;
+    top: 1200px;
+  }
+  .ochki:hover ~ .f2 .div3 {
+    background: url('../images/holod3.svg');
+    width: 165px;
+    height: 261px;
+    left: 3%;
+    top: 1500px;
+  }
+  .ochki:hover ~ .f2 .div4 {
+    background: url('../images/dver3.svg');
+    width: 88px;
+    height: 183px;
+    left: 65%
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 568px) {
+  .t2 {
+    left: 38%;
+    top: -55px;
+  }
+  .t3 {
+    left: 65%;
+    top: 100px;
+  }
+  .t4 {
+    left: 14%;
+    top: -50px;
+  }
+  .t5 {
+    left: 46%;
+    top: 40px;
+  }
+  .t6 {
+    left: 27%;
+    top: -80px;
+  }
+  .t7 {
+    left: 38%;
+    top: -70px;
+  }
+  .glavn {
+    left: calc(50% - 135px);
+    width: 271px;
+    height: 408px;
+  }
+  .chel {
+    background: url('../images/chel2.svg');
+    width: 271px;
+    height: 408px;
+    bottom: 0%;
+  }
+  .rot {
+    background: url('../images/rot2.svg');
+    width: 45px;
+    height: 20px;
+    background-repeat: no-repeat;
+  }
+  .ochki {
+    left: calc(50% - 133px);
+    background: url('../images/ochki2.svg');
+    width: 255px;
+    height: 120px;
+    bottom: 185px;
+  }
+  .krug1 {
+    left: -108px;
+    top: -50px;
+    width: 400px;
+    height: 400px;
+  }
+  .star1 {
+    left: -7%;
+    top: -100px;
+    transform: scale(.5);
+  }
+  .palka1 {
+    left: calc(50% - 499px);
+    top: -150px;
+    width: 120px;
+    height: 761px;
+  }
+  .star2 {
+    left: 5%;
+  }
+  .kvadrat1 {
+    top: 200px;
+    width: 535px;
+    height: 507px;
+    left: -15%;
+  }
+  .krug2 {
+    width: 1000px;
+    height: 700px;
+    top: 200px;
+    background-size: 500px;
+  }
+  @keyframes pryg {
+    50% {top: 800px;}
+  }
+  .kot {
+    top: 500px;
+  }
+  .star3 {
+    top: 600px;
+    left: 5%;
+    background-size: 400px;
+  }
+  .krug3 {
+    left: 10%;
+    top: 590px;
+    background-size: 500px;
+  }
+  .treug1 {
+    top: 330px;
+    left: 50%;
+    opacity: 0;
+  }
+  .krug4 {
+    width: 340px;
+    height: 340px;
+    top: 800px;
+    right: 200px;
+    z-index: 5;
+  }
+  .treug2 {
+    top: 650px;
+    height: 100%;
+    right: -70%;
+    background-repeat: no-repeat;
+    background-size: 400px;
+  }
+
+
+  .f2 {
+    top: 1110px;
+  }
+  .t1 {
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+    left: 0%;
+    top: 80px;
+  }
+  .div1 {
+    top: 207px;
+    width: 302px;
+    height: 330px;
+    left: 0%;
+  }
+  .krug21 {
+    width: 280px;
+    height: 280px;
+  }
+  .kvadrat21 {
+    width: 120px;
+    height: 110px;
+    bottom: 0px;
+    left: 10px;
+  }
+  .k1 {
+    width: 512px;
+    height: 744px;
+    background-repeat: no-repeat;
+    left: -40%;
+    top: 420px;
+  }
+  .treug21 {
+    top: 150px;
+    left: 60%;
+    background-size: 250px;
+    background-repeat: no-repeat;
+  }
+  .k2 {
+    top: 930px;
+    left: 0%;
+  }
+  .star21 {
+    background: url('../images/starr.svg');
+    width: 254px;
+    height: 266px;
+    top: 0px;
+    background-repeat: no-repeat;
+  }
+  .div2 {
+    width: 420px;
+    height: 348px;
+    top: 1100px;
+    left: 0%;
+    transform: scale(.9);
+  }
+  .kot2 {
+    left: 80%;
+  }
+  .kvadrat22 {
+    height: 400px;
+    width: 300px;
+    left: 20%;
+  }
+  .treug22 {
+    left: 17%;
+  }
+  .div3 {
+    top: 1650px;
+    width: 771px;
+    height: 386px;
+    left: -30%;
+  }
+  .treug23 {
+    background-size: 400px;
+  }
+  .krug22 {
+    height: 200px;
+    width: 200px;
+  }
+  .div4 {
+    width: 330px;
+    top: 2100px;
+    left: 15%;
+    height: 190px;
+  }
+  .krug23 {
+    left: 0px;
+    height: 190px;
+    width: 190px;
+  }
+  .krug24 {
+    right: 0px;
+    height: 100px;
+    width: 100px;
+  }
+  .ochki:hover ~ .f2 .div1 {
+    background: url('../images/stul2.svg');
+    width: 233px;
+    height: 307px;
+    left: 1%;
+  }
+  .ochki:hover ~ .f2 .k1 {
+    background: url('../images/krovat2.svg');
+    width: 323px;
+    height: 287px;
+    left: 19%;
+    top: 550px;
+  }
+  .ochki:hover ~ .f2 .k2 {
+    background: url('../images/stol2.svg');
+    width: 260px;
+    height: 247px;
+    left: 0%;
+    top: 900px;
+  }
+  .ochki:hover ~ .f2 .div2 {
+    background: url('../images/shkaf2.svg');
+    width: 323px;
+    height: 360px;
+    left: 19%;
+    top: 1200px;
+  }
+  .ochki:hover ~ .f2 .div3 {
+    background: url('../images/holod2.svg');
+    width: 225px;
+    height: 360px;
+    left: 10%;
+  }
+  .ochki:hover ~ .f2 .div4 {
+    background: url('../images/dver2.svg');
+    width: 127px;
+    height: 240px;
+    left: 60%;
+  }
+}
+@media only screen and (min-width: 568px) and (max-width: 768px) {
+  .t2 {
+    left: 40%;
+  }
+  .t3 {
+    left: 65%;
+    top: 100px;
+  }
+  .t4 {
+    top: -80px;
+  }
+  .t5 {
+    left: 76%;
+  }
+  .t6 {
+    left: 25%;
+    top: -80px;
+  }
+  .t7 {
+    left: 38%;
+    top: -80px;
+  }
+  .ochki {
+    bottom: 344px;
+  }
+  .krug1 {
+    left: -108px;
+    top: 0px;
+    width: 439px;
+    height: 439px;
+  }
+  .star1 {
+    left: 2%;
+    top: 30px;
+  }
+  .palka1 {
+    left: calc(50% - 499px);
+    top: -71px;
+    width: 120px;
+    height: 761px;
+  }
+  .star2 {
+    top: 0px;
+    transform: scale(0.8);
+    right: -30%;
+  }
+  .kvadrat1 {
+    top: 500px;
+    width: 535px;
+    height: 507px;
+    left: -3%;
+  }
+  .krug2 {
+    width: 900px;
+    height: 700px;
+    top: 1000px;
+    background-size: 700px;
+  }
+  @keyframes pryg {
+    50% {top: 800px;}
+  }
+  .kot {
+    top: 500px;
+  }
+  .star3 {
+    top: 800px;
+    left: 5%;
+    transform: scale(0.8);
+  }
+  .krug3 {
+    right: 50px;
+    top: 790px;
+  }
+  .treug1 {
+    top: 330px;
+    left: 50%;
+    opacity: 0;
+  }
+  .krug4 {
+    width: 340px;
+    height: 340px;
+    top: 1200px;
+    right: 200px;
+    z-index: 5;
+  }
+  .treug2 {
+    top: 1220px;
+    height: 100%;
+    right: -3%;
+    background-repeat: no-repeat;
+  }
+
+
+  .f2 {
+    top: 1936px;
+    width: 100%;
+  }
+  .t1 {
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+    left: 0%;
+  }
+  .div1 {
+    top: 357px;
+    width: 372px;
+    height: 350px;
+    left: 4%;
+  }
+  .krug21 {
+    width: 340px;
+    height: 340px;
+  }
+  .kvadrat21 {
+    width: 120px;
+    height: 120px;
+    bottom: 0px;
+    left: 10px;
+  }
+  .k1 {
+    width: 512px;
+    height: 744px;
+    background-repeat: no-repeat;
+    left: 5%;
+    top: 790px;
+  }
+  .treug21 {
+    top: 200px;
+    left: 60%;
+    background-size: 250px;
+    background-repeat: no-repeat;
+  }
+  .k2 {
+    top: 1500px;
+    left: -1%;
+  }
+  .star21 {
+    top: 0px;
+    background-size: 400px;
+    background-repeat: no-repeat;
+  }
+  .div2 {
+    width: 420px;
+    height: 348px;
+    top: 2000px;
+    left: 9%;
+    transform: scale(.9);
+  }
+  .kot2 {
+    left: 80%;
+  }
+  .kvadrat22 {
+    height: 790px;
+    width: 400px;
+    left: 40%;
+  }
+  .treug22 {
+    left: 37%;
+  }
+  .div3 {
+    top: 3000px;
+    width: 771px;
+    height: 386px;
+    left: 0%;
+  }
+  .treug23 {
+    background-size: 400px;
+  }
+  .krug22 {
+    height: 200px;
+    width: 200px;
+  }
+  .div4 {
+    width: 330px;
+    top: 3650px;
+    left: 42%;
+    height: 190px;
   }
   .krug23 {
     left: 0px;
@@ -659,7 +1101,22 @@
 }
 
 @media only screen and (min-width: 1024px) and (max-width: 1280px) {
-
+  .t2 {
+    left: 40%;
+    top: -60px;
+  }
+  .t3 {
+    left: 66%;
+  }
+  .t4 {
+    top: 80px;
+  }
+  .t5 {
+    left: 86%;
+  }
+  .t6 {
+    left: 26%;
+  }
   .krug1 {
     left: -138px;
     top: -38px;
@@ -687,10 +1144,10 @@
     left: -2%;
   }
   .krug2 {
-    width: 900px;
+    width: 1000px;
     height: 800px;
     top: 300px;
-    background-size: 700px
+    background-size: 700px;
   }
   @keyframes pryg {
     50% {top: 100px;}
@@ -756,7 +1213,7 @@
     height: 744px;
     background-repeat: no-repeat;
     left: 30%;
-    top: 490px
+    top: 490px;
   }
   .treug21 {
     left: 60%;
@@ -794,10 +1251,10 @@
     top: 1850px;
     width: 771px;
     height: 386px;
-    left: 0%
+    left: 0%;
   }
   .treug23 {
-    background-size: 400px
+    background-size: 400px;
   }
   .krug22 {
     height: 200px;
@@ -805,9 +1262,9 @@
   }
   .div4 {
     width: 330px;
-    top: 2070px;
+    top: 2400px;
     left: 50%;
-    height: 190px
+    height: 190px;
   }
   .krug23 {
     left: 0px;
@@ -822,6 +1279,18 @@
 }
 
 @media all and (min-width: 1680px) and (max-width: 1840px) {
+  .t2 {
+    left: 44%;
+  }
+  .t3 {
+    left: 30%;
+  }
+  .t5 {
+    left: 61%;
+  }
+  .t6 {
+    left: 36%;
+  }
   .krug1 {
     left: -9px;
     width: 540px;
@@ -842,7 +1311,7 @@
     right: -5%;
     top: -100px;
     transform: scale(1.3);
-    background-position: -10px
+    background-position: -10px;
   }
   .kvadrat1 {
     top: 430px;
@@ -850,8 +1319,7 @@
     height: 507px;
   }
   .krug2 {
-    /* background: url('../images/adapt/krug2u2.svg'); */
-    width: 734px;
+    width: 900px;
     height: 703px;
     top: 900px;
   }
@@ -875,7 +1343,6 @@
     right: 300px;
   }
   .treug2 {
-    /* background: url('../images/adapt/treug2u2.svg'); */
     top: 820px;
     height: 100%;
     right: 0px;
@@ -961,14 +1428,19 @@
   }
 }
 @media all and (min-width: 1440px) and (max-width: 1680px) {
+  .t3 {
+    left: 37%;
+  }
+  .t5 {
+    left: 40%;
+  }
   .krug1 {
     left: -39px;
     width: 520px;
     height: 520px;
   }
   .star1 {
-    /* width: 505px; */
-    /* height: 525px; */
+
   }
   .palka1 {
     left: calc(50% - 119px);
@@ -979,7 +1451,6 @@
   .star2 {
     right: 0px;
     top: -250px;
-    /* width: 110%; */
   }
   .kvadrat1 {
     top: 415px;
@@ -987,10 +1458,7 @@
     height: 484px;
   }
   .krug2 {
-    /* background: url('../images/adapt/krug2u2.svg');
-    width: 734px;
-    height: 703px; */
-    top: 790px;
+    top: 500px;
   }
   .kot {
 
@@ -1014,7 +1482,6 @@
     right: 125px;
   }
   .treug2 {
-    /* background: url('../images/adapt/treug2u2.svg'); */
     top: 780px;
     right: 0px;
   }
@@ -1058,14 +1525,11 @@
     height: 744px; */
     /* background-repeat: no-repeat; */
     right: -50px;
-    top: 455px
+    top: 455px;
   }
   .k2 {
     top: 988px;
     left: 50px;
-  }
-  .t3 {
-    left: 2%;
   }
   .div2 {
     width: 443px;
@@ -1108,14 +1572,19 @@
 
 
 @media all and (min-width: 1366px) and (max-width: 1440px) {
+  .t2 {
+    left: 40%;
+  }
+  .t6 {
+    left: 40%;
+  }
   .krug1 {
     left: -39px;
     width: 520px;
     height: 520px;
   }
   .star1 {
-    /* width: 505px; */
-    /* height: 525px; */
+
   }
   .palka1 {
     left: calc(50% - 119px);
@@ -1126,7 +1595,6 @@
   .star2 {
     right: 15px;
     top: -250px;
-    /* width: 110%; */
   }
   .kvadrat1 {
     top: 415px;
@@ -1134,9 +1602,7 @@
     height: 484px;
   }
   .krug2 {
-    /* top: 790px;
-    background-size: 500px;
-    background-repeat: no-repeat; */
+
   }
   .kot {
 
@@ -1232,7 +1698,7 @@
 
 
   .treug22 {
-
+    left: 0%;
   }
   .div3 {
     top: 67%;
@@ -1257,7 +1723,18 @@
   }
 }
 @media only screen  and (min-width: 1840px) {
-
+  .t2 {
+    left: 46%;
+  }
+  .t4 {
+    left: 42%;
+  }
+  .t5 {
+    left: 64%;
+  }
+  .t6 {
+    left: 37%
+  }
   .krug1 {
     left: 0px;
     width: 580px;
@@ -1285,10 +1762,9 @@
     height: 600px;
   }
   .krug2 {
-    /* background: url('../images/adapt/krug2u3.svg'); */
-    width: 834px;
-    height: 803px;
-    top: 900px;
+    width: 1000px;
+    height: 500px;
+    top: 950px;
     left: 1%;
     background-repeat: no-repeat;
   }
@@ -1402,7 +1878,6 @@
   }
   .div4 {
     top: 2777px;
-    /* right: -100px */
     left: 60%;
   }
   .krug23 {
