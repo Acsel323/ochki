@@ -18,11 +18,11 @@
     background-repeat: no-repeat;
   }
   .ochki {
-    left: calc(50% - 85px);
+    left: calc(50% - 89px);
     background: url('../images/ochki3.svg');
     width: 169px;
     height: 78px;
-    bottom: 24%;
+    bottom: 135px;
     background-repeat: no-repeat;
   }
   .krug1 {
@@ -273,7 +273,7 @@
     background: url('../images/ochki2.svg');
     width: 255px;
     height: 120px;
-    bottom: 27%;
+    bottom: 65px;
   }
   .krug1 {
     left: -108px;
@@ -488,7 +488,7 @@
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   .ochki {
-    bottom: 35%;
+    bottom: 344px;
   }
   .krug1 {
     left: -108px;
@@ -1018,6 +1018,9 @@
   .chel {
 
   }
+  .ocki {
+    bottom: 344px;
+  }
 
   .f2 {
     top: 1350px;
@@ -1162,6 +1165,9 @@
   }
   .chel {
 
+  }
+  .ochki {
+    bottom: 344px;
   }
 
   .f2 {
