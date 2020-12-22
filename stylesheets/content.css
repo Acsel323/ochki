@@ -6,7 +6,7 @@ body {
   width: 100%;
   margin: 0 auto;
   background: #F7EFE2;
-  height: 6025px;
+  height: 4194px;
   display: block;
   position: absolute;
 }
@@ -471,10 +471,10 @@ body {
   position: absolute;
   width: 441px;
   height: 278px;
-  top: 5303px;
+  top: 2210px;
   /* right: 16px;
    */
-   left: 80%;
+   left: 60%;
 }
 .t7 {
   position: absolute;
@@ -509,10 +509,11 @@ body {
 }
 .f3{
   position: absolute;
-  top: 3900px;
+  top: 4070px;
   background: #007EF2;
   width: 100%;
-  height: 123px;
+  height: 124px;
+  z-index: 12;
 }
 .t21 {
   position: absolute;
@@ -529,7 +530,7 @@ body {
   font-size: 30px;
   color: white;
   text-decoration: none;
-  top: 41px;
+  top: 43px;
   left: 466px;
 }
 .t23 {
@@ -538,7 +539,7 @@ body {
   font-size: 30px;
   color: white;
   text-decoration: none;
-  top: 41px;
+  top: 43px;
   left: 586px;
 }
 .t24 {
@@ -548,23 +549,25 @@ body {
   color: white;
   text-decoration: none;
   top: 41px;
-  left: 704px;
+  right: 529px;
 }
 .t25 {
   position: absolute;
   font-family: helvetica;
+  font-weight: normal;
   font-size: 30px;
   color: white;
   text-decoration: none;
   top: 41px;
-  left: 841px;
+  right: 323px;
 }
 .t26 {
   position: absolute;
-  font-family: helvetica;
-  font-size: 30px;
-  color: white;
-  right: 55px;
+  background: url('../images/t26.svg');
+  top: 27px;
+  width: 177px;
+  height: 70px;
+  right: 56px;
 }
 .ochki:hover {
   opacity: 0;
@@ -676,6 +679,9 @@ body {
 }
 .ochki:hover ~ .glavn .rot {
   transform: rotate(180deg);
+}
+.ochki:hover ~ .f3 {
+  background: black;
 }
 .krug21:hover ~ .t2 {
   visibility:visible
