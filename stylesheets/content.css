@@ -569,6 +569,87 @@ body {
   height: 70px;
   right: 56px;
 }
+.s1 {
+  position: absolute;
+  font-family: 'Soyuz';
+  font-size: 40px;
+  top: -110px;
+  text-align: center;
+  left: 23%;
+  width: 314px;
+  visibility:hidden;
+}
+.s2 {
+  position: absolute;
+  font-family: 'Soyuz';
+  font-size: 40px;
+  top: -170px;
+  text-align: center;
+  width: 566px;
+  left: 5%;
+  visibility:hidden;
+}
+.s3 {
+  position: absolute;
+  font-family: 'Soyuz';
+  font-size: 40px;
+  top: -100px;
+  text-align: center;
+  left: 3%;
+  visibility:hidden;
+}
+.s4 {
+  position: absolute;
+  font-family: 'Soyuz';
+  font-size: 40px;
+  top: -280px;
+  text-align: center;
+  left: 0px;
+  visibility:hidden;
+}
+.s5 {
+  position: absolute;
+  font-family: 'Soyuz';
+  font-size: 40px;
+  top: -220px;
+  text-align: center;
+  left: -15%;
+  visibility:hidden;
+}
+.s6 {
+  position: absolute;
+  font-family: 'Soyuz';
+  font-size: 40px;
+  top: 760px;
+  text-align: center;
+  left: -3%;
+  width: 500px;
+  visibility:hidden;
+}
+.ochki:hover ~ .f2 .k1 .s1 {
+  visibility:visible;
+  transition-delay: 1s;
+}
+.ochki:hover ~ .f2 .k2 .s2 {
+  visibility:visible;
+  transition-delay: 2s;
+}
+.ochki:hover ~ .f2 .div2 .s3 {
+  visibility:visible;
+  transition-delay: 3s;
+}
+.ochki:hover ~ .f2 .div3 .s4 {
+  visibility:visible;
+  transition-delay: 4s;
+}
+.ochki:hover ~ .f2 .div4 .s5 {
+  visibility:visible;
+  transition-delay: 5s;
+}
+.ochki:hover ~ .f2 .div3 .s6 {
+  visibility:visible;
+  transition-delay: 6s;
+}
 .ochki:hover {
   opacity: 0;
 }
