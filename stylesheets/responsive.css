@@ -257,8 +257,8 @@
   }
   .s1 {
     font-size: 26px;
-    top: -230px;
-    left: 23%;
+    top: -270px;
+    left: 33%;
   }
   .s2 {
     font-size: 26px;
@@ -277,11 +277,12 @@
   .s5 {
     font-size: 26px;
     top: -280px;
-    left: -5%;
+    left: 5%;
+    width: 200px;
   }
   .s6 {
     font-size: 26px;
-    top: 850px;
+    top: 870px;
   }
   .t21 {
     font-size: 22;
@@ -508,6 +509,40 @@
 @media only screen and (min-width: 320px) and (max-width: 414px) {
   body {
     height: 2646px;
+  }
+  .s1 {
+    font-size: 17px;
+    top: -140px;
+    left: 1%;
+  }
+  .s2 {
+    font-size: 17px;
+    top: -204px;
+    left: 7%;
+    width: 100px;
+  }
+  .s3 {
+    font-size: 17px;
+    top: -200px;
+    width: 250px;
+    left: 7%;
+  }
+  .s4 {
+    font-size: 17px;
+    top: -200px;
+    left: -9%;
+    width: 150px;
+  }
+  .s5 {
+    font-size: 17px;
+    top: -200px;
+    left: -83%;
+    width: 200px;
+  }
+  .s6 {
+    font-size: 17px;
+    top: 380px;
+    width: 200px;
   }
   .f3 {
     top: 2620px;
@@ -793,9 +828,43 @@
   }
 }
 
-@media only screen and (min-width: 414px) and (max-width: 568px) {
+@media only screen and (min-width: 414px) and (max-width: 567px) {
   body {
     height: 3583px;
+  }
+  .s1 {
+    font-size: 20px;
+    top: -210px;
+    left: 15%;
+  }
+  .s2 {
+    font-size: 20px;
+    top: -60px;
+    left: 7%;
+    width: 200px;
+  }
+  .s3 {
+    font-size: 20px;
+    top: -200px;
+    width: 250px;
+    left: 25%
+  }
+  .s4 {
+    font-size: 20px;
+    top: -100px;
+    left: 15%;
+    width: 200px;
+  }
+  .s5 {
+    font-size: 20px;
+    top: -130px;
+    left: 8%;
+    width: 200px;
+  }
+  .s6 {
+    font-size: 20px;
+    top: 500px;
+    width: 200px;
   }
   .f3 {
     top: 3530px;
@@ -1066,32 +1135,38 @@
     height: 6223px;
   }
   .s1 {
-    font-size: 26px;
+    font-size: 24px;
     top: -230px;
-    left: 23%;
+    left: 42%;
   }
   .s2 {
-    font-size: 26px;
+    font-size: 24px;
     top: -100px;
-    left: -2%;
+    left: 7%;
+    width: 200px;
   }
   .s3 {
-    font-size: 26px;
-    top: -100px;
+    font-size: 24px;
+    top: -300px;
+    width: 400px;
+    left: 30%
   }
   .s4 {
-    font-size: 26px;
-    top: -240px;
+    font-size: 24px;
+    top: -100px;
     left: 15%;
+    width: 200px;
   }
   .s5 {
-    font-size: 26px;
-    top: -280px;
-    left: -5%;
+    font-size: 24px;
+    top: -130px;
+    left: 14%;
+    width: 200px;
   }
   .s6 {
-    font-size: 26px;
-    top: 850px;
+    font-size: 24px;
+    top: 1050px;
+    width: 200px;
   }
   .f3 {
     top: 6170px;
@@ -1273,7 +1348,7 @@
   .div4 {
     width: 330px;
     top: 3650px;
-    left: 42%;
+    left: 36%;
     height: 190px;
   }
   .krug23 {
@@ -1288,6 +1363,12 @@
   }
   .ochki:hover ~ .f2 .k1 {
     left: 8%;
+  }
+  .ochki:hover ~ .f2 .div3 {
+    top: 2850px;
+  }
+  .ochki:hover ~ .f2 .div4 {
+    left: 38%;
   }
 }
 
