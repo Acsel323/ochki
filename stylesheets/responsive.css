@@ -967,11 +967,12 @@
     background-repeat: no-repeat;
   }
   .div2 {
-    width: 420px;
+    width: 310px;
     height: 348px;
     top: 1100px;
-    left: 0%;
-    transform: scale(.9);
+    /* left: 0%; */
+    right: 23%;
+    /* transform: scale(.9); */
   }
   .kot2 {
     left: 80%;
@@ -985,7 +986,7 @@
     left: 17%;
   }
   .div3 {
-    top: 1650px;
+    top: 1780px;
     width: 771px;
     height: 386px;
     left: -30%;
@@ -999,8 +1000,9 @@
   }
   .div4 {
     width: 330px;
-    top: 2100px;
-    left: 15%;
+    top: 2170px;
+    /* left: 15%; */
+    right: 8%;
     height: 190px;
   }
   .krug23 {
@@ -1038,7 +1040,8 @@
     background: url('../images/shkaf2.svg');
     width: 323px;
     height: 360px;
-    left: 19%;
+    /* left: 19%; */
+    right: 5%;
     top: 1200px;
   }
   .ochki:hover ~ .f2 .div3 {
@@ -1046,6 +1049,7 @@
     width: 225px;
     height: 360px;
     left: 10%;
+    top: 1700px;
   }
   .ochki:hover ~ .f2 .div4 {
     background: url('../images/dver2.svg');
