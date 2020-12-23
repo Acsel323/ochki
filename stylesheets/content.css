@@ -145,20 +145,7 @@ body {
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
-/* .krug0 {
-  border-radius: 50%;
-  background: #F62F2F;
-  position: absolute;
-  width: 600px;
-  height: 600px;
-  left: 30%;
-  top: 400px;
-  z-index: 0;
-  animation-name: jump;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear; */
-}
+
 .kot {
   background: url('../images/kot.svg');
   height: 100%;
