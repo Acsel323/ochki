@@ -2,6 +2,34 @@
   body {
     height: 6256px;
   }
+  .s1 {
+    font-size: 30px;
+    top: -230px;
+    left: 23%;
+  }
+  .s2 {
+    font-size: 30px;
+    top: -100px;
+    left: -2%;
+  }
+  .s3 {
+    font-size: 30px;
+    top: -100px;
+  }
+  .s4 {
+    font-size: 30px;
+    top: -240px;
+    left: 15%;
+  }
+  .s5 {
+    font-size: 30px;
+    top: -280px;
+    left: -5%;
+  }
+  .s6 {
+    font-size: 30px;
+    top: 850px;
+  }
   .t21 {
     font-size: 24px;
     left: 17px;
@@ -1207,6 +1235,7 @@
     left: -2%;
   }
   .s3 {
+    font-size: 30px;
     top: -135px;
   }
   .s4 {
