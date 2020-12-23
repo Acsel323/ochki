@@ -64,8 +64,8 @@
     top: 14px;
   }
   .f3 {
-    top: 6160px;
-    height: 96px;
+    top: 6170px;
+    height: 86px;
   }
   .t2 {
     left: 40%;
@@ -1384,7 +1384,7 @@
 
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
   body{
-    height: 4247px;
+    height: 4270px;
   }
   .s1 {
     font-size: 30px;
@@ -1412,6 +1412,7 @@
   .s6 {
     font-size: 30px;
     top: 850px;
+    width: 400px;
   }
   .t21 {
     left: 17px;
@@ -1419,26 +1420,27 @@
   }
   .t22 {
     left: 388px;
-    top: 30px;
+    top: 29px;
   }
   .t23 {
     left: 468px;
-    top: 30px;
+    top: 29px;
   }
   .t24 {
     right: 431px;
-    top: 30px;
+    top: 29px;
   }
   .t25 {
     right: 265px;
-    top: 30px;
+    top: 29px;
   }
   .t26 {
     right: 18px;
     top: 14px;
   }
   .f3 {
-    top: 4150px;
+    top: 4183px;
+    height: 87px;
   }
   .t2 {
     left: 40%;
@@ -2251,6 +2253,7 @@
   }
   .f3 {
     top: 4876px;
+    height: 124px;
   }
   .t2 {
     left: 46%;
