@@ -266,22 +266,26 @@
   }
   .s2 {
     font-size: 26px;
-    top: -100px;
-    left: -2%;
+    top: -400px;
+    left: 3%;
+    width: 240px;
   }
   .s3 {
     font-size: 26px;
-    top: -100px;
+    top: -400px;
+    width: 400px;
+    left: 21%
   }
   .s4 {
     font-size: 26px;
-    top: -240px;
-    left: 15%;
+    top: -620px;
+    left: 5%;
+    width: 150px
   }
   .s5 {
     font-size: 26px;
-    top: -280px;
-    left: 5%;
+    top: -510px;
+    left: 8%;
     width: 200px;
   }
   .s6 {
@@ -837,15 +841,16 @@
     height: 3583px;
   }
   .s1 {
-    font-size: 18px;
+    font-size: 10px;
     top: -210px;
-    left: 33%;
+    /* left: 10%; */
+    right: 5%;
   }
   .s2 {
     font-size: 18px;
     top: -300px;
-    left: 4%;
-    width: 80px;
+    left: 2%;
+    width: 50px;
   }
   .s3 {
     font-size: 18px;
@@ -855,9 +860,9 @@
   }
   .s4 {
     font-size: 18px;
-    top: -100px;
-    left: 15%;
-    /* width: 800px; */
+    top: -90px;
+    left: -10%;
+    width: 300px;
   }
   .s5 {
     font-size: 18px;
@@ -1139,38 +1144,39 @@
     height: 6223px;
   }
   .s1 {
-    font-size: 24px;
+    font-size: 19px;
     top: -230px;
-    left: 42%;
+    left: 49%;
   }
   .s2 {
-    font-size: 24px;
+    font-size: 19px;
     top: -100px;
     left: 7%;
     width: 200px;
   }
   .s3 {
-    font-size: 24px;
-    top: -300px;
-    width: 400px;
-    left: 30%
+    font-size: 19px;
+    top: -370px;
+    width: 300px;
+    left: 45%
   }
   .s4 {
-    font-size: 24px;
+    font-size: 19px;
     top: -100px;
     left: 15%;
     width: 200px;
   }
   .s5 {
-    font-size: 24px;
-    top: -130px;
-    left: 14%;
+    font-size: 19px;
+    top: -120px;
+    left: 18%;
     width: 200px;
   }
   .s6 {
-    font-size: 24px;
+    font-size: 19px;
     top: 1050px;
     width: 200px;
+    left: 9%
   }
   .f3 {
     top: 6170px;
