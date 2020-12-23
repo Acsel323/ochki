@@ -669,16 +669,16 @@
     left: 10px;
   }
   .k1 {
-    width: 512px;
-    height: 744px;
+    width: 112px;
+    height: 244px;
     background-repeat: no-repeat;
-    left: -80%;
+    /* left: -80%; */
+    right: 48%;
     top: 400px;
     background-size: 200px;
   }
   .treug21 {
     top: 140px;
-    left: 60%;
     background-size: 250px;
     background-repeat: no-repeat;
     transform: scale(.7);
@@ -696,10 +696,10 @@
     background-repeat: no-repeat;
   }
   .div2 {
-    width: 420px;
+    width: 120px;
     height: 348px;
     top: 1100px;
-    left: 2%;
+    right: 20%;
     transform: scale(.9);
   }
   .kot2 {
@@ -709,10 +709,10 @@
   .kvadrat22 {
     height: 300px;
     width: 200px;
-    left: 15%;
+    /* left: 15%; */
   }
   .treug22 {
-    left: 17%;
+    right: 25%;
   }
   .div3 {
     top: 1600px;
@@ -735,7 +735,8 @@
   .div4 {
     width: 200px;
     top: 1800px;
-    left: 30%;
+    /* left: 30%; */
+    right: 18%;
     height: 130px;
   }
   .krug23 {
@@ -758,7 +759,8 @@
     background: url('../images/krovat3.svg');
     width: 243px;
     height: 225px;
-    left: 20%;
+    /* left: 20%; */
+    right: 7%;
     top: 670px;
   }
   .ochki:hover ~ .f2 .k2 {
@@ -772,7 +774,8 @@
     background: url('../images/shkaf3.svg');
     width: 247px;
     height: 277px;
-    left: 19%;
+    /* left: 19%; */
+    right: 5%;
     top: 1200px;
   }
   .ochki:hover ~ .f2 .div3 {
