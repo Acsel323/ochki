@@ -377,7 +377,8 @@ body {
   /* right: 99px; */
   /* left: 900px; */
   /* left: 75%; */
-  left: 50%;
+  /* left: 50%; */
+  right: 10%;
   width: 575px;
   height: 694;
 }
@@ -474,7 +475,8 @@ body {
   top: 2210px;
   /* right: 16px;
    */
-   left: 60%;
+   /* left: 60%; */
+   right: 10%;
 }
 .t7 {
   position: absolute;
@@ -721,6 +723,7 @@ body {
   width: 581px;
   height: 677px;
   background-repeat: no-repeat;
+  left: 60%;
 }
 .ochki:hover ~ .f2 .krug23 {
   opacity: 0;
