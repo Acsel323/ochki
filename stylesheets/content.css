@@ -311,7 +311,8 @@ body {
 .k1 {
   position: absolute;
   top: 420px;
-  left: 55%;
+  /* left: 55%; */
+  right: 10%;
   width: 417px;
   height: 615px;
 }
