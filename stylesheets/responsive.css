@@ -35,33 +35,33 @@
     top: 930px;
   }
   .t21 {
-    font-size: 24px;
+    font-size: 22px;
     left: 17px;
-    top: 28px;
+    top: 33px;
   }
   .t22 {
-    font-size: 24px;
-    left: 368px;
-    top: 30px;
+    font-size: 22px;
+    left: 313px;
+    top: 31px;
   }
   .t23 {
-    font-size: 24px;
-    left: 468px;
-    top: 30px;
+    font-size: 22px;
+    left: 393px;
+    top: 31px;
   }
   .t24 {
-    font-size: 24px;
-    right: 431px;
-    top: 30px;
+    font-size: 22px;
+    right: 391px;
+    top: 31px;
   }
   .t25 {
-    font-size: 24px;
-    right: 265px;
-    top: 30px;
+    font-size: 22px;
+    right: 245px;
+    top: 31px;
   }
   .t26 {
     right: 18px;
-    top: 14px;
+    top: 10px;
   }
   .f3 {
     top: 6170px;
@@ -516,7 +516,39 @@
 
 @media only screen and (min-width: 320px) and (max-width: 414px) {
   body {
-    height: 2646px;
+    height: 2846px;
+  }
+  .t21 {
+    font-size: 8px;
+    left: 17px;
+    top: 18px;
+  }
+  .t22 {
+    font-size: 8px;
+    left: 158px;
+    top: 19px;
+  }
+  .t23 {
+    font-size: 8px;
+    left: 182px;
+    top: 19px;
+  }
+  .t24 {
+    font-size: 8px;
+    right: 190px;
+    top: 19px;
+  }
+  .t25 {
+    font-size: 8px;
+    right: 131px;
+    top: 19px;
+  }
+  .t26 {
+    background: url('../images/t262.svg');
+    width: 102px;
+    height: 41px;
+    right: 17px;
+    top: 7px;
   }
   .s1 {
     font-size: 17px;
@@ -553,7 +585,7 @@
     width: 200px;
   }
   .f3 {
-    top: 2620px;
+    top: 2820px;
     height: 26px
   }
   .t2 {
@@ -838,7 +870,46 @@
 
 @media only screen and (min-width: 414px) and (max-width: 567px) {
   body {
-    height: 3583px;
+    height: 3800px;
+  }
+  .t21 {
+    font-size: 12px;
+    left: 17px;
+    top: 20px;
+  }
+  .t22 {
+    font-size: 12px;
+    left: 158px;
+    top: 19px;
+  }
+  .t23 {
+    font-size: 12px;
+    left: 182px;
+    top: 19px;
+  }
+  .t24 {
+    font-size: 12px;
+    right: 190px;
+    top: 19px;
+  }
+  .t25 {
+    font-size: 12px;
+    right: 131px;
+    top: 19px;
+  }
+  .t26 {
+    background: url('../images/t262.svg');
+    width: 102px;
+    height: 41px;
+    right: 17px;
+    top: 7px;
+  }
+  .t26 {
+    background: url('../images/t262.svg');
+    width: 102px;
+    height: 41px;
+    right: 17px;
+    top: 7px;
   }
   .s1 {
     font-size: 10px;
@@ -876,7 +947,7 @@
     width: 200px;
   }
   .f3 {
-    top: 3530px;
+    top: 3747px;
     height: 53px;
   }
   .t2 {
@@ -1141,7 +1212,39 @@
 }
 @media only screen and (min-width: 568px) and (max-width: 768px) {
   body {
-    height: 6223px;
+    height: 6550px;
+  }
+  .t21 {
+    font-size: 16px;
+    left: 17px;
+    top: 19px;
+  }
+  .t22 {
+    font-size: 16px;
+    left: 220px;
+    top: 19px;
+  }
+  .t23 {
+    font-size: 16px;
+    left: 265px;
+    top: 19px;
+  }
+  .t24 {
+    font-size: 16px;
+    right: 237px;
+    top: 19px;
+  }
+  .t25 {
+    font-size: 16px;
+    right: 148px;
+    top: 19px;
+  }
+  .t26 {
+    background: url('../images/t262.svg');
+    width: 102px;
+    height: 41px;
+    right: 17px;
+    top: 7px;
   }
   .s1 {
     font-size: 19px;
@@ -1179,7 +1282,7 @@
     left: 9%
   }
   .f3 {
-    top: 6170px;
+    top: 6497px;
     height: 53px;
   }
   .t2 {
@@ -1636,7 +1739,7 @@
 
 @media all and (min-width: 1680px) and (max-width: 1840px) {
   body {
-    height: 4849px;
+    height: 4950px;
   }
   .s1 {
     top: -150px;
@@ -1659,30 +1762,30 @@
   }
   .t21 {
     left: 105px;
-    top: 41px;
+    top: 24px;
   }
   .t22 {
     left: 576px;
-    top: 43px;
+    top: 25px;
   }
   .t23 {
     left: 756px;
-    top: 43px;
+    top: 25px;
   }
   .t24 {
     right: 699px;
-    top: 43px;
+    top: 25px;
   }
   .t25 {
     right: 433px;
-    top: 43px;
+    top: 25px;
   }
   .t26 {
     right: 106px;
-    top: 27px;
+    top: 9px;
   }
   .f3 {
-    top: 4725px;
+    top: 4875px;
   }
   .t2 {
     left: 44%;
@@ -1842,30 +1945,30 @@
   }
   .t21 {
     left: 60px;
-    top: 41px;
+    top: 25px;
   }
   .t22 {
     left: 501px;
-    top: 43px;
+    top: 24px;
   }
   .t23 {
     left: 651px;
-    top: 43px;
+    top: 24px;
   }
   .t24 {
     right: 594px;
-    top: 43px;
+    top: 24px;
   }
   .t25 {
     right: 358px;
-    top: 43px;
+    top: 24px;
   }
   .t26 {
     right: 61px;
-    top: 27px;
+    top: 9px;
   }
   .f3 {
-    top: 4300px;
+    top: 4349px;
   }
   .t3 {
     left: 37%;
@@ -2008,7 +2111,7 @@
 
 @media all and (min-width: 1366px) and (max-width: 1440px) {
   body {
-    height: 4474px;
+    height: 4425px;
   }
   .s3 {
     top: -170px;
@@ -2024,27 +2127,27 @@
   }
   .t21 {
     left: 73px;
-    top: 41px;
+    top: 25px;
   }
   .t22 {
     left: 494px;
-    top: 43px;
+    top: 24px;
   }
   .t23 {
     left: 624px;
-    top: 43px;
+    top: 24px;
   }
   .t24 {
     right: 567px;
-    top: 43px;
+    top: 24px;
   }
   .t25 {
     right: 351px;
-    top: 43px;
+    top: 24px;
   }
   .t26 {
     right: 74px;
-    top: 27px;
+    top: 9px;
   }
   .f3 {
     top: 4350px;
