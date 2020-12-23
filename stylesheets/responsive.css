@@ -945,7 +945,8 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    left: -40%;
+    /* left: -40%; */
+    right: 12%;
     top: 420px;
   }
   .treug21 {
@@ -1022,7 +1023,8 @@
     background: url('../images/krovat2.svg');
     width: 323px;
     height: 287px;
-    left: 19%;
+    /* left: 19%; */
+    right: 9%;
     top: 550px;
   }
   .ochki:hover ~ .f2 .k2 {
