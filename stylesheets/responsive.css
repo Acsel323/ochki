@@ -2,58 +2,34 @@
   body {
     height: 6256px;
   }
-  /* .t21 {
+  .t21 {
+    font-size: 24px;
     left: 17px;
     top: 28px;
   }
   .t22 {
-    left: 388px;
+    font-size: 24px;
+    left: 368px;
     top: 30px;
   }
   .t23 {
+    font-size: 24px;
     left: 468px;
     top: 30px;
   }
   .t24 {
+    font-size: 24px;
     right: 431px;
     top: 30px;
   }
   .t25 {
+    font-size: 24px;
     right: 265px;
     top: 30px;
   }
   .t26 {
     right: 18px;
     top: 14px;
-  } */
-  .t21 {
-    font-size: 22;
-    left: 33px;
-    top: 33px;
-  }
-  .t22 {
-    font-size: 22;
-    left: 298px;
-    top: 34px;
-  }
-  .t23 {
-    font-size: 22;
-    left: 350px;
-    top: 34px;
-  }
-  .t24 {
-    font-size: 22;
-    right: 334px;
-    top: 34px;
-  }
-  .t25 {
-    font-size: 22;
-    right: 219px;
-    top: 34px;
-  }
-  .t26 {
-    right: 33px;
-    top: 17px;
   }
   .f3 {
     top: 6160px;
@@ -1221,6 +1197,32 @@
   body{
     height: 4247px;
   }
+  .s1 {
+    font-size: 30px;
+    top: -150px;
+  }
+  .s2 {
+    font-size: 30px;
+    top: -170px;
+    left: -2%;
+  }
+  .s3 {
+    top: -135px;
+  }
+  .s4 {
+    font-size: 30px;
+    top: -240px;
+    left: 5%;
+  }
+  .s5 {
+    font-size: 30px;
+    top: -280px;
+    left: -3%;
+  }
+  .s6 {
+    font-size: 30px;
+    top: 850px;
+  }
   .t21 {
     left: 17px;
     top: 28px;
@@ -1356,10 +1358,11 @@
     left: 10px;
   }
   .k1 {
-    width: 512px;
+    width: 312px;
     height: 744px;
     background-repeat: no-repeat;
-    left: 30%;
+    /* left: 30%; */
+    right: 30%;
     top: 490px;
   }
   .treug21 {
@@ -1377,10 +1380,11 @@
     background-repeat: no-repeat;
   }
   .div2 {
-    width: 420px;
+    width: 370px;
     height: 348px;
     top: 1160px;
-    left: 32%;
+    /* left: 32%; */
+    right: 23%;
     transform: scale(.9);
   }
   .kot2 {
@@ -1410,7 +1414,8 @@
   .div4 {
     width: 330px;
     top: 2400px;
-    left: 50%;
+    /* left: 50%; */
+    right: 10%;
     height: 190px;
   }
   .krug23 {
@@ -1422,6 +1427,18 @@
     right: 0px;
     height: 100px;
     width: 100px;
+  }
+  .ochki:hover ~ .f2 .k1 {
+    left: 43%;
+  }
+  .ochki:hover ~ .f2 .k2 {
+    top: 950px;
+  }
+  .ochki:hover ~ .f2 .div2 {
+    left: 40%;
+  }
+  .ochki:hover ~ .f2 .div4 {
+    left: 60%;
   }
 }
 
@@ -1941,8 +1958,9 @@
     height: 721px;
     /* right: 52%; */
     left: 58%;
+    top: 1700px;
 
-    top: 1060px;
+    top: 1250px;
   }
   .kot2 {
     left: 40%;
