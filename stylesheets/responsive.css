@@ -255,6 +255,34 @@
   body {
     height: 6246px;
   }
+  .s1 {
+    font-size: 26px;
+    top: -230px;
+    left: 23%;
+  }
+  .s2 {
+    font-size: 26px;
+    top: -100px;
+    left: -2%;
+  }
+  .s3 {
+    font-size: 26px;
+    top: -100px;
+  }
+  .s4 {
+    font-size: 26px;
+    top: -240px;
+    left: 15%;
+  }
+  .s5 {
+    font-size: 26px;
+    top: -280px;
+    left: -5%;
+  }
+  .s6 {
+    font-size: 26px;
+    top: 850px;
+  }
   .t21 {
     font-size: 22;
     left: 33px;
@@ -410,7 +438,7 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    left: 18%;
+    left: 28%;
     top: 790px;
   }
   .treug21 {
@@ -432,7 +460,7 @@
     width: 420px;
     height: 348px;
     top: 2000px;
-    left: 18%;
+    left: 26%;
     transform: scale(.9);
   }
   .kot2 {
@@ -1028,6 +1056,34 @@
   body {
     height: 6223px;
   }
+  .s1 {
+    font-size: 26px;
+    top: -230px;
+    left: 23%;
+  }
+  .s2 {
+    font-size: 26px;
+    top: -100px;
+    left: -2%;
+  }
+  .s3 {
+    font-size: 26px;
+    top: -100px;
+  }
+  .s4 {
+    font-size: 26px;
+    top: -240px;
+    left: 15%;
+  }
+  .s5 {
+    font-size: 26px;
+    top: -280px;
+    left: -5%;
+  }
+  .s6 {
+    font-size: 26px;
+    top: 850px;
+  }
   .f3 {
     top: 6170px;
     height: 53px;
@@ -1055,6 +1111,7 @@
   }
   .ochki {
     bottom: 344px;
+    background-repeat: no-repeat;
   }
   .krug1 {
     left: -108px;
@@ -1154,7 +1211,8 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    left: 5%;
+    /* left: 5%; */
+    right: 20%;
     top: 790px;
   }
   .treug21 {
@@ -1218,6 +1276,9 @@
     right: 0px;
     height: 100px;
     width: 100px;
+  }
+  .ochki:hover ~ .f2 .k1 {
+    left: 8%;
   }
 }
 
@@ -1622,7 +1683,8 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    left: 60%;
+    /* left: 60%; */
+    right: 7%;
     top: 490px;
   }
   .treug21 {
@@ -1795,7 +1857,7 @@
     left: 5px;
   }
   .k1 {
-    right: -50px;
+    right: 10%;
     top: 455px;
   }
   .k2 {
@@ -1969,7 +2031,8 @@
     left: 5px;
   }
   .k1 {
-    left: 53%;
+    /* left: 53%; */
+    right: 10%;
     top: 455px;
   }
   .treug21 {
@@ -2236,6 +2299,9 @@
   }
   .krug24 {
 
+  }
+  .ochki:hover ~ .f2 .k1 {
+    left: 60%;
   }
 
 }
