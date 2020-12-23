@@ -2309,7 +2309,7 @@
 }
 @media only screen  and (min-width: 1840px) {
   body {
-    height: 5000px;
+    height: 5010px;
   }
   .s1 {
     top: -150px;
@@ -2332,31 +2332,31 @@
   }
   .t21 {
     left: 111px;
-    top: 41px;
+    top: 25px;
   }
   .t22 {
     left: 612px;
-    top: 43px;
+    top: 24px;
   }
   .t23 {
     left: 822px;
-    top: 43px;
+    top: 24px;
   }
   .t24 {
     right: 765px;
-    top: 43px;
+    top: 24px;
   }
   .t25 {
     right: 469px;
-    top: 43px;
+    top: 24px;
   }
   .t26 {
     right: 112px;
-    top: 27px;
+    top: 9px;
   }
   .f3 {
-    top: 4886px;
-    height: 124px;
+    top: 4935px;
+    height: 75px;
   }
   .t2 {
     left: 46%;
