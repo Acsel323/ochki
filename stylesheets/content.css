@@ -524,7 +524,7 @@ body {
   font-size: 28px;
   color: white;
   text-decoration: none;
-  top: 18px;
+  top: 25px;
   left: 55px;
 }
 .t22 {
@@ -533,7 +533,7 @@ body {
   font-size: 28px;
   color: white;
   text-decoration: none;
-  top: 20px;
+  top: 24px;
   left: 466px;
 }
 .t23 {
@@ -542,7 +542,7 @@ body {
   font-size: 28px;
   color: white;
   text-decoration: none;
-  top: 20px;
+  top: 24px;
   left: 586px;
 }
 .t24 {
@@ -551,7 +551,7 @@ body {
   font-size: 28px;
   color: white;
   text-decoration: none;
-  top: 20px;
+  top: 24px;
   right: 529px;
 }
 .t25 {
@@ -561,13 +561,13 @@ body {
   font-size: 28px;
   color: white;
   text-decoration: none;
-  top: 20px;
+  top: 24px;
   right: 323px;
 }
 .t26 {
   position: absolute;
   background: url('../images/t26.svg');
-  top: 8px;
+  top: 9px;
   width: 149px;
   height: 59px;
   right: 31px;
