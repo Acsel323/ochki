@@ -36,31 +36,37 @@
   }
   .t21 {
     font-size: 22px;
-    left: 17px;
+    /* left: 17px; */
+    left: 1.9%;
     top: 33px;
   }
   .t22 {
     font-size: 22px;
-    left: 313px;
+    /* left: 313px; */
+    left: 34.8%;
     top: 31px;
   }
   .t23 {
     font-size: 22px;
-    left: 393px;
+    /* left: 393px; */
+    left: 43.7;
     top: 31px;
   }
   .t24 {
     font-size: 22px;
-    right: 391px;
+    /* right: 391px; */
+    right: 43.44%;
     top: 31px;
   }
   .t25 {
     font-size: 22px;
-    right: 245px;
+    /* right: 245px; */
+    right: 27.22%;
     top: 31px;
   }
   .t26 {
-    right: 18px;
+    /* right: 18px; */
+    right: 2%;
     top: 10px;
   }
   .f3 {
@@ -294,31 +300,31 @@
   }
   .t21 {
     font-size: 22px;
-    left: 33px;
+    /* left: 33px; */
     top: 33px;
   }
   .t22 {
     font-size: 22px;
-    left: 298px;
+    /* left: 298px; */
     top: 34px;
   }
   .t23 {
     font-size: 22px;
-    left: 350px;
+    /* left: 350px; */
     top: 34px;
   }
   .t24 {
     font-size: 22px;
-    right: 334px;
+    /* right: 334px; */
     top: 34px;
   }
   .t25 {
     font-size: 22px;
-    right: 219px;
+    /* right: 219px; */
     top: 34px;
   }
   .t26 {
-    right: 33px;
+    /* right: 33px; */
     top: 17px;
   }
   .f3 {
@@ -520,34 +526,40 @@
   }
   .t21 {
     font-size: 8px;
-    left: 6px;
+    /* left: 6px; */
+    left: 1.875%;
     top: 8px;
   }
   .t22 {
     font-size: 8px;
-    left: 105px;
+    /* left: 105px; */
+    left: 32.8%;
     top: 8px;
   }
   .t23 {
     font-size: 8px;
-    left: 138px;
+    /* left: 138px; */
+    left: 43.125%;
     top: 8px;
   }
   .t24 {
     font-size: 8px;
-    right: 137px;
+    /* right: 137px; */
+    right: 42.8%;
     top: 8px;
   }
   .t25 {
     font-size: 8px;
-    right: 81px;
+    /* right: 81px; */
+    right: 25.3%;
     top: 8px;
   }
   .t26 {
     background: url('../images/t263.svg');
     width: 50px;
     height: 20px;
-    right: 6px;
+    /* right: 6px; */
+    right: 1.875%;
     top: 3px;
   }
   .s1 {
@@ -590,32 +602,32 @@
   }
   .t2 {
     font-size: 25px;
-    left: 37%;
-    top: -15px;
+    left: 40%;
+    top: -35px;
   }
   .t3 {
-    font-size: 40px;
-    left: 75%;
+    font-size: 25px;
+    left: 96%;
     top: 170px;
   }
   .t4 {
-    font-size: 40px;
+    font-size: 25px;
     left: 14%;
     top: -40px;
   }
   .t5 {
-    font-size: 40px;
+    font-size: 25px;
     left: 29%;
     top: 45px;
   }
   .t6 {
-    font-size: 40px;
-    left: 15%;
+    font-size: 25px;
+    left: 20%;
     top: -65px;
   }
   .t7 {
-    font-size: 40px;
-    left: 36%;
+    font-size: 25px;
+    left: 39%;
     top: -55px;
   }
   .glavn {
@@ -874,34 +886,40 @@
   }
   .t21 {
     font-size: 12px;
-    left: 17px;
+    /* left: 17px; */
+    left: 4%;
     top: 20px;
   }
   .t22 {
     font-size: 12px;
-    left: 158px;
+    /* left: 158px; */
+    left: 38%;
     top: 19px;
   }
   .t23 {
     font-size: 12px;
-    left: 182px;
+    /* left: 182px; */
+    left: 44%;
     top: 19px;
   }
   .t24 {
     font-size: 12px;
-    right: 190px;
+    /* right: 190px; */
+    right: 46%;
     top: 19px;
   }
   .t25 {
     font-size: 12px;
-    right: 131px;
+    /* right: 131px; */
+    right: 31.6%;
     top: 19px;
   }
   .t26 {
     background: url('../images/t262.svg');
     width: 102px;
     height: 41px;
-    right: 17px;
+    /* right: 17px; */
+    right: 4%;
     top: 7px;
   }
   .t26 {
@@ -912,7 +930,7 @@
     top: 7px;
   }
   .s1 {
-    font-size: 10px;
+    font-size: 18px;
     top: -210px;
     /* left: 10%; */
     right: 5%;
@@ -920,7 +938,7 @@
   .s2 {
     font-size: 18px;
     top: -300px;
-    left: 2%;
+    left: 5%;
     width: 50px;
   }
   .s3 {
@@ -1037,9 +1055,10 @@
     top: 500px;
   }
   .star3 {
-    top: 600px;
-    left: 5%;
+    top: 450px;
+    left: 0%;
     background-size: 400px;
+    animation-play-state: paused;
   }
   .krug3 {
     left: 10%;
@@ -1216,34 +1235,40 @@
   }
   .t21 {
     font-size: 16px;
-    left: 17px;
+    /* left: 17px; */
+    left: 3%;
     top: 19px;
   }
   .t22 {
     font-size: 16px;
-    left: 220px;
+    /* left: 220px; */
+    left: 39%;
     top: 19px;
   }
   .t23 {
     font-size: 16px;
-    left: 265px;
+    /* left: 265px; */
+    left: 47%;
     top: 19px;
   }
   .t24 {
     font-size: 16px;
-    right: 237px;
+    /* right: 237px; */
+    right: 42%;
     top: 19px;
   }
   .t25 {
     font-size: 16px;
-    right: 148px;
+    /* right: 148px; */
+    right: 26%;
     top: 19px;
   }
   .t26 {
     background: url('../images/t262.svg');
     width: 102px;
     height: 41px;
-    right: 17px;
+    /* right: 17px; */
+    right: 3%;
     top: 7px;
   }
   .s1 {
@@ -1518,32 +1543,32 @@
     width: 400px;
   }
   .t21 {
-    left: 17px;
+    /* left: 17px; */
     top: 28px;
   }
   .t22 {
-    left: 388px;
+    /* left: 388px; */
     top: 29px;
   }
   .t23 {
-    left: 468px;
+    /* left: 468px; */
     top: 29px;
   }
   .t24 {
-    right: 431px;
+    /* right: 431px; */
     top: 29px;
   }
   .t25 {
-    right: 265px;
+    /* right: 265px; */
     top: 29px;
   }
   .t26 {
-    right: 18px;
+    /* right: 18px; */
     top: 14px;
   }
   .f3 {
     top: 4183px;
-    height: 87px;
+    height: 86px;
   }
   .t2 {
     left: 40%;
@@ -1760,7 +1785,7 @@
   .s6 {
     top: 680px;
   }
-  .t21 {
+  /* .t21 {
     left: 105px;
     top: 24px;
   }
@@ -1783,7 +1808,7 @@
   .t26 {
     right: 106px;
     top: 9px;
-  }
+  } */
   .f3 {
     top: 4875px;
   }
@@ -1943,7 +1968,7 @@
   .s6 {
     top: 800px;
   }
-  .t21 {
+  /* .t21 {
     left: 60px;
     top: 25px;
   }
@@ -1966,7 +1991,7 @@
   .t26 {
     right: 61px;
     top: 9px;
-  }
+  } */
   .f3 {
     top: 4349px;
   }
@@ -2125,7 +2150,7 @@
   .s6 {
     top: 880px;
   }
-  .t21 {
+  /* .t21 {
     left: 73px;
     top: 25px;
   }
@@ -2148,7 +2173,7 @@
   .t26 {
     right: 74px;
     top: 9px;
-  }
+  } */
   .f3 {
     top: 4350px;
   }
@@ -2330,7 +2355,7 @@
   .s6 {
     top: 730px;
   }
-  .t21 {
+  /* .t21 {
     left: 111px;
     top: 25px;
   }
@@ -2353,7 +2378,7 @@
   .t26 {
     right: 112px;
     top: 9px;
-  }
+  } */
   .f3 {
     top: 4935px;
     height: 75px;
