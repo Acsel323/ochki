@@ -36,36 +36,30 @@
   }
   .t21 {
     font-size: 22px;
-    /* left: 17px; */
     left: 1.9%;
     top: 33px;
   }
   .t22 {
     font-size: 22px;
-    /* left: 313px; */
     left: 34.8%;
     top: 31px;
   }
   .t23 {
     font-size: 22px;
-    /* left: 393px; */
     left: 43.7;
     top: 31px;
   }
   .t24 {
     font-size: 22px;
-    /* right: 391px; */
     right: 43.44%;
     top: 31px;
   }
   .t25 {
     font-size: 22px;
-    /* right: 245px; */
     right: 27.22%;
     top: 31px;
   }
   .t26 {
-    /* right: 18px; */
     right: 2%;
     top: 10px;
   }
@@ -163,8 +157,6 @@
     right: -3%;
     background-repeat: no-repeat;
   }
-
-
   .f2 {
     top: 1936px;
     width: 100%;
@@ -300,31 +292,25 @@
   }
   .t21 {
     font-size: 22px;
-    /* left: 33px; */
     top: 33px;
   }
   .t22 {
     font-size: 22px;
-    /* left: 298px; */
     top: 34px;
   }
   .t23 {
     font-size: 22px;
-    /* left: 350px; */
     top: 34px;
   }
   .t24 {
     font-size: 22px;
-    /* right: 334px; */
     top: 34px;
   }
   .t25 {
     font-size: 22px;
-    /* right: 219px; */
     top: 34px;
   }
   .t26 {
-    /* right: 33px; */
     top: 17px;
   }
   .f3 {
@@ -421,8 +407,6 @@
     right: -3%;
     background-repeat: no-repeat;
   }
-
-
   .f2 {
     top: 1936px;
     width: 100%;
@@ -519,38 +503,32 @@
     width: 100px;
   }
 }
-
 @media only screen and (min-width: 320px) and (max-width: 414px) {
   body {
     height: 2846px;
   }
   .t21 {
     font-size: 8px;
-    /* left: 6px; */
     left: 1.875%;
     top: 8px;
   }
   .t22 {
     font-size: 8px;
-    /* left: 105px; */
     left: 32.8%;
     top: 8px;
   }
   .t23 {
     font-size: 8px;
-    /* left: 138px; */
     left: 43.125%;
     top: 8px;
   }
   .t24 {
     font-size: 8px;
-    /* right: 137px; */
     right: 42.8%;
     top: 8px;
   }
   .t25 {
     font-size: 8px;
-    /* right: 81px; */
     right: 25.3%;
     top: 8px;
   }
@@ -558,7 +536,6 @@
     background: url('../images/t263.svg');
     width: 50px;
     height: 20px;
-    /* right: 6px; */
     right: 1.875%;
     top: 3px;
   }
@@ -690,7 +667,6 @@
     left: -88%;
     background-size: 300px;
     animation-play-state: paused;
-
   }
   @keyframes pryg {
     50% {top: 550px;}
@@ -759,7 +735,6 @@
     width: 112px;
     height: 244px;
     background-repeat: no-repeat;
-    /* left: -80%; */
     right: 48%;
     top: 400px;
     background-size: 200px;
@@ -769,7 +744,6 @@
     background-size: 250px;
     background-repeat: no-repeat;
     transform: scale(.7);
-
   }
   .k2 {
     top: 900px;
@@ -796,7 +770,6 @@
   .kvadrat22 {
     height: 300px;
     width: 200px;
-    /* left: 15%; */
   }
   .treug22 {
     right: 25%;
@@ -822,7 +795,6 @@
   .div4 {
     width: 200px;
     top: 1800px;
-    /* left: 30%; */
     right: 18%;
     height: 130px;
   }
@@ -846,7 +818,6 @@
     background: url('../images/krovat3.svg');
     width: 243px;
     height: 225px;
-    /* left: 20%; */
     right: 7%;
     top: 670px;
   }
@@ -861,7 +832,6 @@
     background: url('../images/shkaf3.svg');
     width: 247px;
     height: 277px;
-    /* left: 19%; */
     right: 5%;
     top: 1200px;
   }
@@ -879,38 +849,32 @@
     left: 65%
   }
 }
-
 @media only screen and (min-width: 414px) and (max-width: 567px) {
   body {
     height: 3800px;
   }
   .t21 {
     font-size: 12px;
-    /* left: 17px; */
     left: 4%;
     top: 20px;
   }
   .t22 {
     font-size: 12px;
-    /* left: 158px; */
     left: 38%;
     top: 19px;
   }
   .t23 {
     font-size: 12px;
-    /* left: 182px; */
     left: 44%;
     top: 19px;
   }
   .t24 {
     font-size: 12px;
-    /* right: 190px; */
     right: 46%;
     top: 19px;
   }
   .t25 {
     font-size: 12px;
-    /* right: 131px; */
     right: 31.6%;
     top: 19px;
   }
@@ -918,7 +882,6 @@
     background: url('../images/t262.svg');
     width: 102px;
     height: 41px;
-    /* right: 17px; */
     right: 4%;
     top: 7px;
   }
@@ -932,7 +895,6 @@
   .s1 {
     font-size: 18px;
     top: -210px;
-    /* left: 10%; */
     right: 5%;
   }
   .s2 {
@@ -1084,8 +1046,6 @@
     background-repeat: no-repeat;
     background-size: 400px;
   }
-
-
   .f2 {
     top: 1110px;
   }
@@ -1116,7 +1076,6 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    /* left: -40%; */
     right: 12%;
     top: 420px;
   }
@@ -1141,9 +1100,7 @@
     width: 310px;
     height: 348px;
     top: 1100px;
-    /* left: 0%; */
     right: 23%;
-    /* transform: scale(.9); */
   }
   .kot2 {
     left: 80%;
@@ -1172,7 +1129,6 @@
   .div4 {
     width: 330px;
     top: 2170px;
-    /* left: 15%; */
     right: 8%;
     height: 190px;
   }
@@ -1196,7 +1152,6 @@
     background: url('../images/krovat2.svg');
     width: 323px;
     height: 287px;
-    /* left: 19%; */
     right: 9%;
     top: 550px;
   }
@@ -1211,7 +1166,6 @@
     background: url('../images/shkaf2.svg');
     width: 323px;
     height: 360px;
-    /* left: 19%; */
     right: 5%;
     top: 1200px;
   }
@@ -1235,31 +1189,26 @@
   }
   .t21 {
     font-size: 16px;
-    /* left: 17px; */
     left: 3%;
     top: 19px;
   }
   .t22 {
     font-size: 16px;
-    /* left: 220px; */
     left: 39%;
     top: 19px;
   }
   .t23 {
     font-size: 16px;
-    /* left: 265px; */
     left: 47%;
     top: 19px;
   }
   .t24 {
     font-size: 16px;
-    /* right: 237px; */
     right: 42%;
     top: 19px;
   }
   .t25 {
     font-size: 16px;
-    /* right: 148px; */
     right: 26%;
     top: 19px;
   }
@@ -1267,7 +1216,6 @@
     background: url('../images/t262.svg');
     width: 102px;
     height: 41px;
-    /* right: 17px; */
     right: 3%;
     top: 7px;
   }
@@ -1401,8 +1349,6 @@
     right: -3%;
     background-repeat: no-repeat;
   }
-
-
   .f2 {
     top: 1936px;
     width: 100%;
@@ -1433,7 +1379,6 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    /* left: 5%; */
     right: 20%;
     top: 790px;
   }
@@ -1509,7 +1454,6 @@
     left: 38%;
   }
 }
-
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
   body{
     height: 4270px;
@@ -1543,27 +1487,21 @@
     width: 400px;
   }
   .t21 {
-    /* left: 17px; */
     top: 28px;
   }
   .t22 {
-    /* left: 388px; */
     top: 29px;
   }
   .t23 {
-    /* left: 468px; */
     top: 29px;
   }
   .t24 {
-    /* right: 431px; */
     top: 29px;
   }
   .t25 {
-    /* right: 265px; */
     top: 29px;
   }
   .t26 {
-    /* right: 18px; */
     top: 14px;
   }
   .f3 {
@@ -1649,11 +1587,8 @@
     right: -3%;
     background-repeat: no-repeat;
   }
-
-
   .f2 {
     top: 1152px;
-
   }
   .t1 {
     position: relative;
@@ -1681,7 +1616,6 @@
     width: 312px;
     height: 744px;
     background-repeat: no-repeat;
-    /* left: 30%; */
     right: 30%;
     top: 490px;
   }
@@ -1703,12 +1637,8 @@
     width: 370px;
     height: 348px;
     top: 1160px;
-    /* left: 32%; */
     right: 23%;
     transform: scale(.9);
-  }
-  .kot2 {
-
   }
   .kvadrat22 {
     height: 490px;
@@ -1734,7 +1664,6 @@
   .div4 {
     width: 330px;
     top: 2400px;
-    /* left: 50%; */
     right: 10%;
     height: 190px;
   }
@@ -1761,7 +1690,6 @@
     left: 60%;
   }
 }
-
 @media all and (min-width: 1680px) and (max-width: 1840px) {
   body {
     height: 4950px;
@@ -1785,30 +1713,6 @@
   .s6 {
     top: 680px;
   }
-  /* .t21 {
-    left: 105px;
-    top: 24px;
-  }
-  .t22 {
-    left: 576px;
-    top: 25px;
-  }
-  .t23 {
-    left: 756px;
-    top: 25px;
-  }
-  .t24 {
-    right: 699px;
-    top: 25px;
-  }
-  .t25 {
-    right: 433px;
-    top: 25px;
-  }
-  .t26 {
-    right: 106px;
-    top: 9px;
-  } */
   .f3 {
     top: 4875px;
   }
@@ -1881,11 +1785,8 @@
     right: 0px;
     background-repeat: no-repeat;
   }
-
-
   .f2 {
     top: 1575px;
-
   }
   .t1 {
     position: relative;
@@ -1913,7 +1814,6 @@
     width: 512px;
     height: 744px;
     background-repeat: no-repeat;
-    /* left: 60%; */
     right: 7%;
     top: 490px;
   }
@@ -1930,35 +1830,14 @@
     right: 2%;
     top: 1410px;
   }
-  .kot2 {
-
-  }
-  .kvadrat22 {
-
-  }
-  .treug22 {
-
-  }
   .div3 {
     top: 87%;
     width: 771px;
     height: 486px;
   }
-  .treug23 {
-
-  }
-  .krug22 {
-
-  }
   .div4 {
     top: 2777px;
     left: 70%;
-  }
-  .krug23 {
-
-  }
-  .krug24 {
-
   }
 }
 @media all and (min-width: 1440px) and (max-width: 1680px) {
@@ -1968,30 +1847,7 @@
   .s6 {
     top: 800px;
   }
-  /* .t21 {
-    left: 60px;
-    top: 25px;
-  }
-  .t22 {
-    left: 501px;
-    top: 24px;
-  }
-  .t23 {
-    left: 651px;
-    top: 24px;
-  }
-  .t24 {
-    right: 594px;
-    top: 24px;
-  }
-  .t25 {
-    right: 358px;
-    top: 24px;
-  }
-  .t26 {
-    right: 61px;
-    top: 9px;
-  } */
+
   .f3 {
     top: 4349px;
   }
@@ -2005,9 +1861,6 @@
     left: -39px;
     width: 520px;
     height: 520px;
-  }
-  .star1 {
-
   }
   .palka1 {
     left: calc(50% - 119px);
@@ -2026,9 +1879,6 @@
   }
   .krug2 {
     top: 500px;
-  }
-  .kot {
-
   }
   .star3 {
     top: 649px;
@@ -2052,16 +1902,8 @@
     top: 780px;
     right: 0px;
   }
-  .chel {
-
-  }
-  .ocki {
-    bottom: 344px;
-  }
-
   .f2 {
     top: 1350px;
-
   }
   .t1 {
     position: relative;
@@ -2097,7 +1939,6 @@
   .div2 {
     width: 443px;
     height: 721px;
-    /* right: 32%; */
     left: 58%;
     top: 1090px;
   }
@@ -2115,25 +1956,11 @@
     width: 771px;
     height: 486px;
   }
-  .treug23 {
-
-  }
-  .krug22 {
-
-  }
   .div4 {
     top: 2303px;
     left: 60%;
   }
-  .krug23 {
-
-  }
-  .krug24 {
-
-  }
 }
-
-
 @media all and (min-width: 1366px) and (max-width: 1440px) {
   body {
     height: 4425px;
@@ -2150,30 +1977,6 @@
   .s6 {
     top: 880px;
   }
-  /* .t21 {
-    left: 73px;
-    top: 25px;
-  }
-  .t22 {
-    left: 494px;
-    top: 24px;
-  }
-  .t23 {
-    left: 624px;
-    top: 24px;
-  }
-  .t24 {
-    right: 567px;
-    top: 24px;
-  }
-  .t25 {
-    right: 351px;
-    top: 24px;
-  }
-  .t26 {
-    right: 74px;
-    top: 9px;
-  } */
   .f3 {
     top: 4350px;
   }
@@ -2187,9 +1990,6 @@
     left: -39px;
     width: 520px;
     height: 520px;
-  }
-  .star1 {
-
   }
   .palka1 {
     left: calc(50% - 119px);
@@ -2205,12 +2005,6 @@
     top: 415px;
     width: 511px;
     height: 484px;
-  }
-  .krug2 {
-
-  }
-  .kot {
-
   }
   .star3 {
     top: 649px;
@@ -2231,23 +2025,14 @@
     right: 125px;
   }
   .treug2 {
-    /* background: url('../images/adapt/treug2u2.svg'); */
     top: 780px;
     right: 0px;
-  }
-  .glavn {
-
-  }
-  .chel {
-
   }
   .ochki {
     bottom: 344px;
   }
-
   .f2 {
     top: 1350px;
-
   }
   .t1 {
     left: 0%;
@@ -2273,7 +2058,6 @@
     left: 5px;
   }
   .k1 {
-    /* left: 53%; */
     right: 10%;
     top: 455px;
   }
@@ -2290,10 +2074,7 @@
   .div2 {
     width: 643px;
     height: 721px;
-    /* right: 52%; */
     left: 58%;
-    top: 1700px;
-
     top: 1250px;
   }
   .kot2 {
@@ -2302,8 +2083,6 @@
   .kvadrat22 {
     left: 0%;
   }
-
-
   .treug22 {
     left: 0%;
   }
@@ -2312,21 +2091,9 @@
     width: 771px;
     height: 486px;
   }
-  .treug23 {
-
-  }
-  .krug22 {
-
-  }
   .div4 {
     top: 2303px;
     left: 62%;
-  }
-  .krug23 {
-
-  }
-  .krug24 {
-
   }
   .ochki:hover ~ .f2 .div2 {
     left: 55%;
@@ -2355,30 +2122,6 @@
   .s6 {
     top: 730px;
   }
-  /* .t21 {
-    left: 111px;
-    top: 25px;
-  }
-  .t22 {
-    left: 612px;
-    top: 24px;
-  }
-  .t23 {
-    left: 822px;
-    top: 24px;
-  }
-  .t24 {
-    right: 765px;
-    top: 24px;
-  }
-  .t25 {
-    right: 469px;
-    top: 24px;
-  }
-  .t26 {
-    right: 112px;
-    top: 9px;
-  } */
   .f3 {
     top: 4935px;
     height: 75px;
@@ -2452,7 +2195,6 @@
     right: 0px;
   }
   .treug2 {
-    /* background: url('../images/adapt/treug2u3.svg'); */
     top: 470px;
     width: 1106px;
     height: 1011;
@@ -2461,7 +2203,6 @@
   }
   .f2 {
     top: 1575px;
-
   }
   .t1 {
     position: relative;
@@ -2515,39 +2256,16 @@
     left: 55%;
     top: 1610px;
   }
-  .kot2 {
-
-  }
-  .kvadrat22 {
-
-  }
-  .treug22 {
-
-  }
   .div3 {
     top: 87%;
     width: 771px;
     height: 486px;
   }
-  .treug23 {
-
-  }
-
-  .krug22 {
-
-  }
   .div4 {
     top: 2777px;
     left: 60%;
   }
-  .krug23 {
-
-  }
-  .krug24 {
-
-  }
   .ochki:hover ~ .f2 .k1 {
     left: 60%;
   }
-
 }
