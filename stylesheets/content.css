@@ -512,7 +512,8 @@ body {
   color: white;
   text-decoration: none;
   top: 25px;
-  left: 55px;
+  /* left: 55px; */
+  left: 4.3%;
 }
 .t22 {
   position: absolute;
@@ -521,7 +522,8 @@ body {
   color: white;
   text-decoration: none;
   top: 24px;
-  left: 466px;
+  /* left: 466px; */
+  left: 34.5%;
 }
 .t23 {
   position: absolute;
@@ -530,7 +532,8 @@ body {
   color: white;
   text-decoration: none;
   top: 24px;
-  left: 586px;
+  /* left: 586px; */
+  left: 45.8%;
 }
 .t24 {
   position: absolute;
@@ -539,7 +542,8 @@ body {
   color: white;
   text-decoration: none;
   top: 24px;
-  right: 529px;
+  /* right: 529px; */
+  right: 41.3%;
 }
 .t25 {
   position: absolute;
@@ -549,7 +553,8 @@ body {
   color: white;
   text-decoration: none;
   top: 24px;
-  right: 323px;
+  /* right: 323px; */
+  right: 25.2%;
 }
 .t26 {
   position: absolute;
