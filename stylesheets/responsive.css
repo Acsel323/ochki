@@ -663,8 +663,8 @@
     height: 200px;
   }
   .star1 {
-    left: -30%;
-    top: -700px;
+    left: -10%;
+    top: -100px;
     transform: scale(.8);
   }
   .palka1 {
@@ -699,8 +699,8 @@
     top: 500px;
   }
   .star3 {
-    top: 370px;
-    left: -9%;
+    top: 400px;
+    left: -5%;
     background-size: 400px;
     animation-play-state: paused;
     background-size: 300px;
