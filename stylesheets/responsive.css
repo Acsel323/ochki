@@ -213,7 +213,10 @@
     transform: scale(.9);
   }
   .kot2 {
-    left: 80%;
+    left: 90%;
+  }
+  .ochki:hover ~ .f2 .div2 .kot2 {
+    left: 70%;
   }
   .kvadrat22 {
     height: 790px;
@@ -378,7 +381,7 @@
     50% {top: 800px;}
   }
   .kot {
-    top: 500px;
+    top: 1250px;
   }
   .star3 {
     top: 800px;
@@ -463,7 +466,10 @@
     transform: scale(.9);
   }
   .kot2 {
-    left: 80%;
+    left: 90%;
+  }
+  .ochki:hover ~ .f2 .div2 .kot2 {
+    left: 70%;
   }
   .kvadrat22 {
     height: 790px;
@@ -672,7 +678,9 @@
     50% {top: 550px;}
   }
   .kot {
-    top: 500px;
+    top: 420px;
+    transform: scale(.5);
+    left: 3%;
   }
   .star3 {
     top: 400px;
@@ -1015,6 +1023,7 @@
   }
   .kot {
     top: 500px;
+    left: 2%;
   }
   .star3 {
     top: 450px;
@@ -1103,7 +1112,7 @@
     right: 23%;
   }
   .kot2 {
-    left: 80%;
+    left: 60%;
   }
   .kvadrat22 {
     height: 400px;
@@ -1320,7 +1329,8 @@
     50% {top: 800px;}
   }
   .kot {
-    top: 500px;
+    top: 1300px;
+    left: 1%;
   }
   .star3 {
     top: 800px;
@@ -1405,7 +1415,10 @@
     transform: scale(.9);
   }
   .kot2 {
-    left: 80%;
+    left: 90%;
+  }
+  .ochki:hover ~ .f2 .div2 .kot2 {
+    left: 70%;
   }
   .kvadrat22 {
     height: 790px;
@@ -1639,6 +1652,13 @@
     top: 1160px;
     right: 23%;
     transform: scale(.9);
+  }
+  .kot2 {
+    left: 90%;
+  }
+  .ochki:hover ~ .f2 .div2 .kot2 {
+    top: -100px;
+    left: 70%;
   }
   .kvadrat22 {
     height: 490px;
